@@ -162,18 +162,19 @@ Build Tools: Vite (learning)
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anjumhere&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anjumhere&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-</div>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjumhere&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&rank_icon=github)](https://github.com/anjumhere)
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjumhere&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anjumhere&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakLabel=c9d1d9)](https://github.com/anjumhere)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjumhere&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8)](https://github.com/anjumhere)
+
 </div>
 
 <!-- Activity Graph -->
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjumhere&custom_title=Adnan's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&area_color=764ba2&title_color=667eea&area=true&hide_border=true" width="100%" alt="Contribution Graph">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjumhere&custom_title=Adnan's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&area_color=764ba2&title_color=667eea&area=true&hide_border=true)](https://github.com/anjumhere)
 
 ---
 
@@ -181,7 +182,11 @@ Build Tools: Vite (learning)
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjumhere&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anjumhere&theme=radical&no-frame=true&no-bg=false&margin-w=15&row=1)](https://github.com/anjumhere)
+
+**🎯 Quick Draw** | **🦈 Pull Shark**
+
 </div>
 
 ---

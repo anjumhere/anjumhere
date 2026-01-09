@@ -1,212 +1,242 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Adnan+Anjum+%F0%9F%91%8B;Frontend+Developer+%7C+Code+Craftsman;From+Gilgit-Baltistan+%F0%9F%8F%94%EF%B8%8F+Pakistan;Building+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
-</h1>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Adnan%20Anjum&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Building%20Digital%20Dreams&descAlignY=55&descSize=20" width="100%"/>
+
 </div>
 
+<!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjumhere&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lives-Gilgit%20Baltistan-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Backend%20Tech-red?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+digital+space+%F0%9F%91%8B;From+Gilgit-Baltistan+%F0%9F%8F%94%EF%B8%8F+to+Islamabad's+Tech+Scene;Crafting+Beautiful+Web+Experiences+%E2%9C%A8;Transforming+Ideas+into+Interactive+Reality" alt="Typing SVG" />
+</p>
+
+<!-- Profile Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anjumhere&label=Profile%20Views&color=667eea&style=for-the-badge&abbreviated=true" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/anjumhere?label=Followers&style=for-the-badge&color=764ba2&labelColor=1a1b27" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-667eea?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/From-Gilgit%20Baltistan-f093fb?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Based%20In-Islamabad-764ba2?style=for-the-badge&labelColor=1a1b27" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-### 🧑‍💻 About This Developer
-
+<!-- Animated Profile Section -->
+<div align="center">
+  
 ```javascript
-const adnan = {
-  name: "Adnan Anjum",
-  location: "Gilgit-Baltistan, Pakistan 🏔️",
-  education: "ICS in Computer Science",
-  currentRole: "Frontend Web Developer",
-  expertise: ["HTML5", "CSS3", "JavaScript"],
-  nextMission: "Conquering Backend Development",
-  workingOn: "Building stunning web experiences",
-  funFact: "I code with K2 in my backyard! 🏔️"
-};
+class WebDeveloper {
+    constructor() {
+        this.name = "Adnan Anjum";
+        this.origin = "Gilgit-Baltistan 🏔️";
+        this.currentCity = "Islamabad, Pakistan 🇵🇰";
+        this.education = "Intermediate in Computer Science";
+        this.role = "Frontend Web Developer";
+        this.passions = ["Clean Code", "User Experience", "Continuous Learning"];
+    }
 
-// Life Algorithm
-while (adnan.isAlive) {
-  adnan.code();
-  adnan.learn();
-  adnan.innovate();
-  adnan.sleep() || adnan.drinkCoffee();
+    get currentStack() {
+        return {
+            languages: ["HTML5", "CSS3", "JavaScript (ES6+)"],
+            styling: ["Responsive Design", "Flexbox", "CSS Grid", "Animations"],
+            tools: ["VS Code", "Git", "GitHub", "Chrome DevTools", "Figma"],
+            currentlyExploring: "Backend Development (Node.js & Databases)"
+        };
+    }
+
+    get dailyRoutine() {
+        return [
+            "☕ Start with coffee",
+            "💻 Code for hours",
+            "🐛 Debug with patience",
+            "📚 Learn something new",
+            "🚀 Ship amazing projects",
+            "🔄 Repeat"
+        ];
+    }
+
+    get journey() {
+        return "From mountain peaks to tech peaks! 🏔️ → 💻";
+    }
 }
+
+const adnan = new WebDeveloper();
+console.log(adnan.journey); // "From mountain peaks to tech peaks! 🏔️ → 💻"
 ```
 
-<br clear="right"/>
+</div>
 
 ---
 
-## 🎯 Current Mission Status
+<!-- What I'm Up To Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> What I'm Currently Up To
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<br>
+
+**🔭 Building:** Pixel-perfect, responsive websites that users love  
+**🌱 Learning:** Backend development to become a Full Stack Developer  
+**👯 Open To:** Collaborating on innovative web projects & open source  
+**🎯 Goal 2026:** Master the MERN stack and build production-ready apps  
+**💬 Ask Me About:** HTML, CSS, JavaScript, Frontend best practices  
+**⚡ Fun Fact:** My coding journey started in the mountains! 🏔️  
+
+<br><br>
+
+---
+
+<!-- Tech Stack Section -->
+## 🛠️ My Tech Arsenal
+
+<div align="center">
+
+### **Languages & Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark&perline=6" />
+
+### **Tools & Design**
+<img src="https://skillicons.dev/icons?i=figma,npm,vite,bootstrap,tailwind,sass&theme=dark&perline=6" />
+
+### **Currently Learning**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,react,nextjs&theme=dark&perline=6" />
+
+</div>
+
+<br>
+
+<!-- Detailed Skills -->
+<details>
+<summary><b>🎨 Click to see my detailed skills</b></summary>
+
+<br>
+
+**Frontend Development**
+```yaml
+HTML5:
+  - Semantic markup
+  - Accessibility (ARIA)
+  - SEO-friendly structure
+  - Form validation
+
+CSS3:
+  - Flexbox & Grid layouts
+  - Animations & Transitions
+  - Responsive design (Mobile-first)
+  - CSS Variables & Custom Properties
+  - Sass/SCSS preprocessor
+
+JavaScript:
+  - ES6+ features (Arrow functions, Destructuring, Spread/Rest)
+  - DOM Manipulation
+  - Event Handling
+  - Async/Await & Promises
+  - Fetch API
+  - Local Storage
+```
+
+**Development Workflow**
+```yaml
+Version Control: Git & GitHub
+Code Editor: VS Code with extensions
+Design: Figma for UI/UX mockups
+Debugging: Chrome DevTools
+Package Manager: npm
+Build Tools: Vite (learning)
+```
+
+**Soft Skills**
+```yaml
+- Problem Solving
+- Attention to Detail
+- Fast Learner
+- Team Collaboration
+- Time Management
+- Continuous Improvement Mindset
+```
+
+</details>
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anjumhere&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anjumhere&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakLabel=c9d1d9" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjumhere&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=anjumhere&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
+</div>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjumhere&custom_title=Adnan's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&area_color=764ba2&title_color=667eea&area=true&hide_border=true" width="100%">
+
+---
+
+<!-- GitHub Trophies -->
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anjumhere&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Issues,Followers" width="100%"/>
+</div>
+
+---
+
+<!-- Project Showcase Placeholder -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+> **Coming Soon!** Watch this space for my featured projects 🎯
+
+</div>
+
+<!-- Will add projects like this when ready:
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🔭 Building
-- 🎨 **Pixel-perfect responsive websites**
-- 🚀 **Interactive user interfaces**
-- 💼 **Portfolio that speaks volumes**
-- 🌐 **Web apps that solve real problems**
-
-### 🌱 Learning Journey
-- ⚡ **Backend Development** (Node.js, Express)
-- 🗄️ **Database Management** (MongoDB, SQL)
-- 🔐 **Authentication & Security**
-- 🎓 **Full Stack Architecture**
-
+<td width="50%">
+<h3 align="center">Project Name</h3>
+<div align="center">
+<a href="project-link" target="_blank"><img src="project-screenshot.png" width="400" alt="Project Name"></a>
+<p>
+<a href="https://github.com/username/repo" target="_blank">
+<img src="https://img.shields.io/badge/Code-667eea?style=for-the-badge&logo=github"/>
+</a>
+<a href="project-demo-link" target="_blank">
+<img src="https://img.shields.io/badge/Live-f093fb?style=for-the-badge&logo=google-chrome"/>
+</a>
+</p>
+<p><strong>HTML, CSS, JavaScript</strong> - Project description here</p>
+</div>
 </td>
-<td width="50%" valign="top">
-
-### 👯 Collaboration Goals
-- 🤝 **Open Source Contributions**
-- 💡 **Innovative Web Projects**
-- 🌟 **Developer Community Building**
-- 🎯 **Startup MVPs & Prototypes**
-
-### 🤔 Seeking Wisdom On
-- 🏗️ **Scalable Backend Architecture**
-- 🔄 **RESTful API Best Practices**
-- 📊 **Database Design Patterns**
-- 🚀 **Deployment & DevOps Basics**
-
-</td>
+...more projects
 </tr>
 </table>
+-->
 
 ---
 
-## 🛠️ Tech Arsenal
+<!-- Coding Stats -->
+## ⚡ Coding Activity
 
 <div align="center">
+  
+<!--START_SECTION:waka-->
+<!-- Will show when Wakatime is set up -->
+<!--END_SECTION:waka-->
 
-### **⚡ Current Stack**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" />
-
-### **🎯 Next Level Unlocking Soon**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,react,tailwind,typescript&theme=dark" />
-
-### **🔧 Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Chrome](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+<!-- Alternative: GitHub Activity -->
+<img src="https://ghchart.rshah.org/667eea/anjumhere" alt="GitHub Chart" width="100%"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjumhere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjumhere&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjumhere&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjumhere&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9" width="100%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjumhere&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-</div>
-
----
-
-## 💬 Let's Talk About
-
-<div align="center">
-
-```javascript
-const expertise = {
-  frontend: {
-    responsive_design: "Mobile-first approach, flexbox, grid",
-    javascript: "ES6+, DOM manipulation, async/await",
-    css: "Animations, transitions, custom properties",
-    html: "Semantic markup, accessibility, SEO"
-  },
-  interests: [
-    "Web Performance Optimization",
-    "UI/UX Design Principles", 
-    "Clean Code Practices",
-    "Mountain Trekking 🏔️",
-    "Tech Communities"
-  ],
-  askMeAbout: [
-    "Frontend development tips and tricks",
-    "Career transition from education to tech",
-    "Life in Gilgit-Baltistan",
-    "Learning roadmaps for web development",
-    "Best practices for beginners"
-  ]
-};
-```
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-anjumcode12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjumcode12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjumhere)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-anjum-196a373a1/)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjumhere&custom_title=Adnan's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true" width="100%">
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🎵 Vibe Check
-
-<div align="center">
-
-### *"First, solve the problem. Then, write the code."*
-**– John Johnson**
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+<!-- Snake Animation -->
+## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -214,22 +244,87 @@ const expertise = {
 
 ---
 
+<!-- Random Dev Quote -->
+## 💭 Dev Quote of the Day
+
 <div align="center">
 
-### 📫 Pronouns: **He/Him**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
 
-### ⚡ Fun Fact
-**Coding at 7,000+ feet elevation with a view of some of the world's highest peaks!**  
-**My debugging sessions are literally elevated! 🏔️**
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<!-- Connect Section -->
+## 🌐 Let's Connect & Collaborate
 
-### 💖 Thanks for stopping by!
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+<a href="mailto:anjumcode12@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/adnan-anjum-196a373a1/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/anjumhere">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**If you find my work interesting, drop a ⭐ on my repos!**
+<br><br>
+
+**📧 Email:** anjumcode12@gmail.com  
+**💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/adnan-anjum-196a373a1/)  
+**🐙 GitHub:** [@anjumhere](https://github.com/anjumhere)
+
+<br>
+
+### 📫 **Pronouns:** He/Him  
+### 🏔️ **My Journey:** From Gilgit-Baltistan to Islamabad's Tech Scene  
+### 🎯 **Mission:** Building the future, one commit at a time
 
 </div>
+
+---
+
+<!-- Support Section -->
+## ☕ Support My Work
+
+<div align="center">
+
+If you find my projects helpful or interesting, consider giving them a ⭐!  
+Your support motivates me to keep building and sharing.
+
+<a href="https://www.buymeacoffee.com/adnananjum" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
+</a>
+
+</div>
+
+---
+
+<!-- Footer Quote -->
+<div align="center">
+
+### 💡 *"The only way to do great work is to love what you do."* - Steve Jobs
+
+<br>
+
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+
+### Show some ❤️ by starring some of my repositories!
+
+<br>
+
+</div>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%"/>
+
+<!-- Easter Egg -->
+<!-- 
+█▀▀ █▀█ █▀▄ █▀▀   █ █▀   █▀█ █▀█ █▀▀ ▀█▀ █▀█ █▄█
+█▄▄ █▄█ █▄▀ ██▄   █ ▄█   █▀▀ █▄█ ██▄  █  █▀▄  █ 
+
+If you're reading this, you found the easter egg! 🎉
+Connect with me and mention "I found the easter egg!" 
+-->

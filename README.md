@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anjumhere&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Lives-Gilgit%20Baltistan-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learning-Backend%20Tech-red?style=for-the-badge" />
@@ -19,19 +19,8 @@
 
 ### 🧑‍💻 About This Developer
 
-```typescript
-interface Developer {
-  name: string;
-  location: string;
-  education: string;
-  currentRole: string;
-  expertise: string[];
-  nextMission: string;
-  workingOn: string;
-  funFact: string;
-}
-
-const adnan: Developer = {
+```javascript
+const adnan = {
   name: "Adnan Anjum",
   location: "Gilgit-Baltistan, Pakistan 🏔️",
   education: "ICS in Computer Science",
@@ -121,16 +110,16 @@ while (adnan.isAlive) {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjumhere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjumhere&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjumhere&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjumhere&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9" width="100%"/>
 </div>
 
 ---
@@ -138,7 +127,7 @@ while (adnan.isAlive) {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anjumhere&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 </div>
 
 ---
@@ -181,9 +170,8 @@ const expertise = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-anjumcode12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjumcode12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjumhere)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-anjum-196a373a1/)
 
 </div>
 
@@ -192,7 +180,7 @@ const expertise = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Adnan's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjumhere&custom_title=Adnan's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true" width="100%">
 </div>
 
 ---

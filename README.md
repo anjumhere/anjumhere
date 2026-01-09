@@ -1,270 +1,433 @@
-<div align="center">
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=ADNAN%20ANJUM&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Code%20Craftsman%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&descAlign=50" width="100%"/>
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Adnan%20Anjum&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Building%20Digital%20Dreams&descAlignY=55&descSize=20" width="100%"/>
-
-</div>
-
-<!-- Animated Typing Text -->
+<!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+digital+space+%F0%9F%91%8B;From+Gilgit-Baltistan+%F0%9F%8F%94%EF%B8%8F+to+Islamabad's+Tech+Scene;Crafting+Beautiful+Web+Experiences+%E2%9C%A8;Transforming+Ideas+into+Interactive+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3F8FFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=140&lines=Welcome+to+my+digital+playground+%F0%9F%91%8B;Born+in+the+mountains+of+Gilgit-Baltistan+%F0%9F%8F%94%EF%B8%8F;Coding+from+the+heart+of+Islamabad+%F0%9F%87%B5%F0%9F%87%B0;Turning+ideas+into+elegant+web+experiences+%E2%9C%A8;Let's+build+something+extraordinary+together!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<!-- Profile Badges -->
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Profile Counter & Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjumhere&label=Profile%20Views&color=667eea&style=for-the-badge&abbreviated=true" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/anjumhere?label=Followers&style=for-the-badge&color=764ba2&labelColor=1a1b27" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-667eea?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/From-Gilgit%20Baltistan-f093fb?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Based%20In-Islamabad-764ba2?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://komarev.com/ghpvc/?username=anjumhere&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/anjumhere?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/anjumhere?label=Total%20Stars&style=social" alt="stars" />
 </p>
 
----
-
-<!-- Animated Profile Section -->
+<!-- Custom Badges Grid -->
 <div align="center">
   
+![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
+![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/Tools-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/From-Gilgit_Baltistan-informational?style=for-the-badge&logoColor=white&color=006633)
+![](https://img.shields.io/badge/Based_In-Islamabad-informational?style=for-the-badge&logoColor=white&color=01411C)
+![](https://img.shields.io/badge/Status-Learning_Backend-informational?style=for-the-badge&logoColor=white&color=FF6B6B)
+
+</div>
+
+<br>
+
+<!-- Animated Section Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- About Me Section with Animated GIF -->
+<div align="center">
+  
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> **About Me**
+
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+
 ```javascript
-class WebDeveloper {
-    constructor() {
-        this.name = "Adnan Anjum";
-        this.origin = "Gilgit-Baltistan 🏔️";
-        this.currentCity = "Islamabad, Pakistan 🇵🇰";
-        this.education = "Intermediate in Computer Science";
-        this.role = "Frontend Web Developer";
-        this.passions = ["Clean Code", "User Experience", "Continuous Learning"];
+const adnanAnjum = {
+    fullName: "Adnan Anjum",
+    pronouns: "He | Him",
+    origin: "Gilgit-Baltistan 🏔️",
+    currentLocation: "Islamabad, Pakistan 🇵🇰",
+    education: "Intermediate in Computer Science",
+    currentRole: "Frontend Web Developer",
+    
+    code: {
+        languages: ["HTML5", "CSS3", "JavaScript"],
+        currentlyMastering: ["ES6+", "Async Programming", "DOM Manipulation"],
+        nextGoals: ["Node.js", "Express.js", "MongoDB", "React.js"]
+    },
+    
+    tools: ["VS Code", "Git", "GitHub", "Chrome DevTools", "Figma"],
+    
+    learning: {
+        backend: ["Node.js", "Express.js", "RESTful APIs"],
+        databases: ["MongoDB", "PostgreSQL"],
+        frontend: ["React.js", "Next.js", "Tailwind CSS"],
+        tools: ["npm", "Vite", "Sass"]
+    },
+    
+    interests: [
+        "Clean Code Architecture",
+        "Responsive Web Design",
+        "UI/UX Best Practices",
+        "Open Source Contribution",
+        "Tech Communities"
+    ],
+    
+    currentFocus: "Building production-ready web applications",
+    lifeGoal: "Become a Full Stack Developer & Create Impact",
+    
+    funFacts: [
+        "Started coding journey in the mountains 🏔️",
+        "Coffee-driven developer ☕",
+        "Believe in learning by building 🚀"
+    ],
+    
+    dailyRoutine: function() {
+        while(alive) {
+            this.drinkCoffee();
+            this.code();
+            this.debug();
+            this.learn();
+            this.repeat();
+        }
     }
+};
 
-    get currentStack() {
-        return {
-            languages: ["HTML5", "CSS3", "JavaScript (ES6+)"],
-            styling: ["Responsive Design", "Flexbox", "CSS Grid", "Animations"],
-            tools: ["VS Code", "Git", "GitHub", "Chrome DevTools", "Figma"],
-            currentlyExploring: "Backend Development (Node.js & Databases)"
-        };
-    }
-
-    get dailyRoutine() {
-        return [
-            "☕ Start with coffee",
-            "💻 Code for hours",
-            "🐛 Debug with patience",
-            "📚 Learn something new",
-            "🚀 Ship amazing projects",
-            "🔄 Repeat"
-        ];
-    }
-
-    get journey() {
-        return "From mountain peaks to tech peaks! 🏔️ → 💻";
-    }
-}
-
-const adnan = new WebDeveloper();
-console.log(adnan.journey); // "From mountain peaks to tech peaks! 🏔️ → 💻"
+console.log("From mountain peaks to tech peaks! 🏔️ → 💻");
 ```
 
+<br clear="right"/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- What I'm Up To -->
+<div align="center">
+  
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **What I'm Currently Up To**
+
 </div>
 
----
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<!-- What I'm Up To Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> What I'm Currently Up To
+### 🔭 **Currently Working On**
+```yaml
+- Building responsive web interfaces
+- Crafting pixel-perfect designs
+- Strengthening JavaScript fundamentals
+- Creating my developer portfolio
+- Contributing to open source
+```
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+### 🌱 **Currently Learning**
+```yaml
+Backend Development:
+  - Node.js & Express.js
+  - RESTful API design
+  - MongoDB & PostgreSQL
+  
+Frontend Expansion:
+  - React.js ecosystem
+  - Next.js framework
+  - Tailwind CSS
+```
+
+### 🎯 **2026 Goals**
+```yaml
+□ Master MERN Stack
+□ Build 10+ production projects
+□ Contribute to 5+ open source projects
+□ Learn TypeScript
+□ Get my first developer role
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 👯 **Open to Collaborate On**
+```yaml
+- Innovative web applications
+- Open source projects
+- Startup MVPs
+- Developer tools
+- Learning projects
+```
+
+### 🤔 **Looking for Help With**
+```yaml
+- Backend architecture patterns
+- Database design best practices
+- Deployment & DevOps
+- System design fundamentals
+- Career guidance in tech
+```
+
+### 💬 **Ask Me About**
+```yaml
+- HTML/CSS best practices
+- JavaScript fundamentals
+- Responsive design techniques
+- Git & GitHub workflows
+- Frontend development journey
+- Life in Gilgit-Baltistan
+- Transitioning to tech career
+```
+
+</td>
+</tr>
+</table>
 
 <br>
 
-**🔭 Building:** Pixel-perfect, responsive websites that users love  
-**🌱 Learning:** Backend development to become a Full Stack Developer  
-**👯 Open To:** Collaborating on innovative web projects & open source  
-**🎯 Goal 2026:** Master the MERN stack and build production-ready apps  
-**💬 Ask Me About:** HTML, CSS, JavaScript, Frontend best practices  
-**⚡ Fun Fact:** My coding journey started in the mountains! 🏔️  
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<br><br>
-
----
-
-<!-- Tech Stack Section -->
-## 🛠️ My Tech Arsenal
-
+<!-- Tech Stack -->
 <div align="center">
 
-### **Languages & Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark&perline=6" />
-
-### **Tools & Design**
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=6" />
-
-### **Currently Learning**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,react,nextjs,figma,npm,vite,bootstrap,tailwind,sass&theme=dark&perline=6" />
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> **Tech Stack & Tools**
 
 </div>
 
+### **💻 Languages**
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### **🛠️ Tools & Technologies**
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</p>
+
+### **📚 Currently Learning**
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
 <br>
 
-<!-- Detailed Skills -->
+<!-- Skills Breakdown -->
 <details>
-<summary><b>🎨 Click to see my detailed skills</b></summary>
+<summary><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Click to see my detailed skillset</b></summary>
 
 <br>
 
 **Frontend Development**
-```yaml
-HTML5:
-  - Semantic markup
-  - Accessibility (ARIA)
-  - SEO-friendly structure
-  - Form validation
-
-CSS3:
-  - Flexbox & Grid layouts
-  - Animations & Transitions
-  - Responsive design (Mobile-first)
-  - CSS Variables & Custom Properties
-  - Sass/SCSS preprocessor
-
-JavaScript:
-  - ES6+ features (Arrow functions, Destructuring, Spread/Rest)
-  - DOM Manipulation
-  - Event Handling
-  - Async/Await & Promises
-  - Fetch API
-  - Local Storage
+```javascript
+const frontendSkills = {
+    HTML5: {
+        level: "Advanced",
+        skills: [
+            "Semantic HTML",
+            "Accessibility (ARIA, WCAG)",
+            "SEO-friendly markup",
+            "Form validation",
+            "Canvas & SVG"
+        ]
+    },
+    
+    CSS3: {
+        level: "Advanced",
+        skills: [
+            "Flexbox & Grid layouts",
+            "Responsive design (Mobile-first)",
+            "CSS Animations & Transitions",
+            "CSS Variables",
+            "BEM methodology",
+            "Media queries"
+        ]
+    },
+    
+    JavaScript: {
+        level: "Intermediate",
+        skills: [
+            "ES6+ features",
+            "DOM Manipulation",
+            "Event Handling",
+            "Async/Await & Promises",
+            "Fetch API",
+            "Local Storage",
+            "Error Handling",
+            "Arrow Functions",
+            "Destructuring"
+        ]
+    }
+};
 ```
 
-**Development Workflow**
+**Development Practices**
 ```yaml
-Version Control: Git & GitHub
-Code Editor: VS Code with extensions
-Design: Figma for UI/UX mockups
-Debugging: Chrome DevTools
-Package Manager: npm
-Build Tools: Vite (learning)
+Version Control:
+  - Git fundamentals
+  - GitHub workflows
+  - Branch management
+  - Pull requests & code reviews
+
+Development Tools:
+  - VS Code (with extensions)
+  - Chrome DevTools
+  - Git Bash
+  - npm package manager
+
+Design:
+  - Figma (learning)
+  - Responsive design principles
+  - Color theory basics
+  - Typography
+
+Best Practices:
+  - Clean code principles
+  - Code commenting
+  - File organization
+  - Naming conventions
+  - Performance optimization
 ```
 
 **Soft Skills**
 ```yaml
-- Problem Solving
-- Attention to Detail
-- Fast Learner
-- Team Collaboration
-- Time Management
-- Continuous Improvement Mindset
+Technical:
+  - Problem solving
+  - Debugging
+  - Code reviewing
+  - Technical documentation
+  
+Professional:
+  - Fast learner
+  - Self-motivated
+  - Attention to detail
+  - Time management
+  - Effective communication
+  
+Mindset:
+  - Growth mindset
+  - Continuous learning
+  - Adaptability
+  - Team collaboration
 ```
 
 </details>
 
----
-
-<!-- GitHub Stats -->
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjumhere&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&rank_icon=github)](https://github.com/anjumhere)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anjumhere&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=f093fb&currStreakLabel=c9d1d9)](https://github.com/anjumhere)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjumhere&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8)](https://github.com/anjumhere)
-
-</div>
-
-<!-- Activity Graph -->
 <br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjumhere&custom_title=Adnan's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&area_color=764ba2&title_color=667eea&area=true&hide_border=true)](https://github.com/anjumhere)
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
----
+<!-- GitHub Statistics -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Statistics**
+
+</div>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anjumhere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=3F8FFF&icon_color=3F8FFF&text_color=FFFFFF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anjumhere&theme=tokyonight&hide_border=true&background=1F222E&stroke=3F8FFF&ring=3F8FFF&fire=FB8C00&currStreakLabel=FB8C00&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=3F8FFF" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjumhere&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=3F8FFF&text_color=FFFFFF&langs_count=8" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=anjumhere&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=3F8FFF&text_color=FFFFFF&layout=compact" />
+</p>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjumhere&bg_color=1F222E&color=3F8FFF&line=3F8FFF&point=FFFFFF&area=true&hide_border=true&title_color=3F8FFF&area_color=3F8FFF" width="100%"/>
+
+<br>
 
 <!-- GitHub Trophies -->
-## 🏆 GitHub Achievements
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anjumhere&theme=radical&no-frame=true&no-bg=false&margin-w=15&row=1)](https://github.com/anjumhere)
+### 🏆 **GitHub Achievements**
 
-**🎯 Quick Draw** | **🦈 Pull Shark**
+[![trophy](https://github-profile-trophy.vercel.app/?username=anjumhere&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/anjumhere)
+
+**🎯 Quick Draw** • **🦈 Pull Shark**
 
 </div>
 
----
+<br>
 
-<!-- Project Showcase Placeholder -->
-## 🚀 Featured Projects
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+<!-- Projects Section -->
 <div align="center">
 
-> **Coming Soon!** Watch this space for my featured projects 🎯
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Featured Projects**
+
+### 🚀 *Coming Soon! Building amazing projects...*
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
 </div>
 
-<!-- Will add projects like this when ready:
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Project Name</h3>
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- Activity & Contributions -->
 <div align="center">
-<a href="project-link" target="_blank"><img src="project-screenshot.png" width="400" alt="Project Name"></a>
-<p>
-<a href="https://github.com/username/repo" target="_blank">
-<img src="https://img.shields.io/badge/Code-667eea?style=for-the-badge&logo=github"/>
-</a>
-<a href="project-demo-link" target="_blank">
-<img src="https://img.shields.io/badge/Live-f093fb?style=for-the-badge&logo=google-chrome"/>
-</a>
-</p>
-<p><strong>HTML, CSS, JavaScript</strong> - Project description here</p>
-</div>
-</td>
-...more projects
-</tr>
-</table>
--->
 
----
-
-<!-- Coding Stats -->
-## ⚡ Coding Activity
-
-<div align="center">
-  
-<!--START_SECTION:waka-->
-<!-- Will show when Wakatime is set up -->
-<!--END_SECTION:waka-->
-
-<!-- Alternative: GitHub Activity -->
-<img src="https://ghchart.rshah.org/667eea/anjumhere" alt="GitHub Chart" width="100%"/>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **Coding Activity**
 
 </div>
 
----
+<!-- GitHub Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
-<!-- Snake Animation -->
-## 🐍 Watch My Contributions Get Eaten!
+<br><br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-<!-- Random Dev Quote -->
-## 💭 Dev Quote of the Day
-
+<!-- Dev Quote -->
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
+### 💭 **Developer Quote of the Day**
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
----
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- Connect Section -->
-## 🌐 Let's Connect & Collaborate
-
 <div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Let's Connect & Collaborate**
+
+<p>
+I'm always excited to connect with fellow developers, collaborate on interesting projects,<br>
+or just have a chat about technology and development!
+</p>
+
+### **📬 Reach Me At**
 
 <a href="mailto:anjumcode12@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -279,58 +442,90 @@ Build Tools: Vite (learning)
 <br><br>
 
 **📧 Email:** anjumcode12@gmail.com  
-**💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/adnan-anjum-196a373a1/)  
+**💼 LinkedIn:** [Adnan Anjum](https://www.linkedin.com/in/adnan-anjum-196a373a1/)  
 **🐙 GitHub:** [@anjumhere](https://github.com/anjumhere)
 
+</div>
+
 <br>
 
-### 📫 **Pronouns:** He/Him  
-### 🏔️ **My Journey:** From Gilgit-Baltistan to Islamabad's Tech Scene  
-### 🎯 **Mission:** Building the future, one commit at a time
+<!-- Personal Info Card -->
+<div align="center">
+
+```diff
+@@ Profile Information @@
+
++ Name: Adnan Anjum
++ Pronouns: He/Him
++ From: Gilgit-Baltistan, Pakistan 🏔️
++ Based In: Islamabad, Pakistan 🇵🇰
++ Role: Frontend Web Developer
++ Status: Learning & Building 🚀
++ Mission: Becoming a Full Stack Developer
++ Fun Fact: Started my coding journey in the mountains!
+```
 
 </div>
 
----
+<br>
 
 <!-- Support Section -->
-## ☕ Support My Work
-
 <div align="center">
 
-If you find my projects helpful or interesting, consider giving them a ⭐!  
-Your support motivates me to keep building and sharing.
+### ☕ **Support My Journey**
 
-<a href="https://www.buymeacoffee.com/adnananjum" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
-</a>
-
-</div>
-
----
-
-<!-- Footer Quote -->
-<div align="center">
-
-### 💡 *"The only way to do great work is to love what you do."* - Steve Jobs
+If you find my work interesting or helpful, consider:
+- ⭐ Starring my repositories
+- 🔗 Connecting on LinkedIn
+- 💬 Sharing feedback
+- 🤝 Collaborating on projects
 
 <br>
 
-**Thanks for visiting my profile! Let's build something amazing together! 🚀**
-
-### Show some ❤️ by starring some of my repositories!
-
-<br>
+**Every star ⭐ motivates me to keep learning and building!**
 
 </div>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%"/>
+<br>
 
-<!-- Easter Egg -->
-<!-- 
-█▀▀ █▀█ █▀▄ █▀▀   █ █▀   █▀█ █▀█ █▀▀ ▀█▀ █▀█ █▄█
-█▄▄ █▄█ █▄▀ ██▄   █ ▄█   █▀▀ █▄█ ██▄  █  █▀▄  █ 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-If you're reading this, you found the easter egg! 🎉
-Connect with me and mention "I found the easter egg!" 
+<!-- Quote Section -->
+<div align="center">
+
+### 💡 *"First, solve the problem. Then, write the code."* – John Johnson
+
+### 🌟 *"Code is poetry written for machines to execute and humans to understand."*
+
+<br>
+
+**Thanks for visiting my profile!**  
+**Let's build something extraordinary together! 🚀**
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer" width="100%"/>
+
+<!-- Easter Eggs -->
+<!--
+ 
+  ██████╗  ██████╗ ██████╗ ███████╗    ██╗███████╗    ██████╗  ██████╗ ███████╗████████╗██████╗ ██╗   ██╗
+ ██╔════╝ ██╔═══██╗██╔══██╗██╔════╝    ██║██╔════╝    ██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝██╔══██╗╚██╗ ██╔╝
+ ██║      ██║   ██║██║  ██║█████╗      ██║███████╗    ██████╔╝██║   ██║█████╗     ██║   ██████╔╝ ╚████╔╝ 
+ ██║      ██║   ██║██║  ██║██╔══╝      ██║╚════██║    ██╔═══╝ ██║   ██║██╔══╝     ██║   ██╔══██╗  ╚██╔╝  
+ ╚██████╗ ╚██████╔╝██████╔╝███████╗    ██║███████║    ██║     ╚██████╔╝███████╗   ██║   ██║  ██║   ██║   
+  ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝╚══════╝    ╚═╝      ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   
+
+🎉 Congratulations! You found the secret message! 🎉
+
+If you're reading this, you're a true code explorer! 🕵️
+Feel free to reach out and mention "I found your Easter egg!" 
+
+From the mountains to the code - Adnan Anjum 🏔️💻
 -->

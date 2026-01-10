@@ -1,467 +1,530 @@
-# 🌸 ADNAN ANJUM
-
 <div align="center">
 
-```
-    ╔═══════════════════════════════════════════════════════════════╗
-    ║                                                               ║
-    ║     ██████╗  ██████╗ ██████╗ ███████╗    ███████╗ █████╗     ║
-    ║    ██╔════╝ ██╔═══██╗██╔══██╗██╔════╝    ██╔════╝██╔══██╗    ║
-    ║    ██║      ██║   ██║██║  ██║█████╗      ███████╗███████║    ║
-    ║    ██║      ██║   ██║██║  ██║██╔══╝      ╚════██║██╔══██║    ║
-    ║    ╚██████╗ ╚██████╔╝██████╔╝███████╗    ███████║██║  ██║    ║
-    ║     ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝    ╚══════╝╚═╝  ╚═╝    ║
-    ║                                                               ║
-    ╚═══════════════════════════════════════════════════════════════╝
-```
+<!-- Animated Header with Glitch Effect -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=ADNAN%20ANJUM&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%E3%80%8E%20Frontend%20Sorcerer%20%E3%80%8F%20%E2%80%A2%20%E3%80%8E%20Code%20Alchemist%20%E3%80%8F%20%E2%80%A2%20%E3%80%8E%20Digital%20Craftsman%20%E3%80%8F&descAlignY=55&descSize=20&descAlign=50"/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- Epic Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=200&lines=%E2%9A%A1+Born+in+the+Mountains+of+Gilgit-Baltistan+%F0%9F%8F%94%EF%B8%8F;%F0%9F%92%BB+Crafting+Digital+Magic+from+Islamabad+%F0%9F%87%B5%F0%9F%87%B0;%E2%9C%A8+Transforming+Coffee+into+Code+%E2%98%95%E2%86%92%F0%9F%9A%80;%F0%9F%8E%AF+Currently+Mastering+the+MERN+Stack;%F0%9F%94%A5+Let's+Build+the+Future+Together!" alt="Typing SVG" /></a>
 
-### 『 Frontend Developer • Code Artisan • Mountain Soul 』
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%9C%A8+Welcome+to+my+digital+sanctuary;%F0%9F%8F%94%EF%B8%8F+From+Gilgit-Baltistan+to+the+world;%F0%9F%92%BB+Crafting+experiences%2C+one+line+at+a+time)](https://git.io/typing-svg)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- Profile Stats -->
+<!-- Dynamic Badges with Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjumhere&label=VISITORS&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/anjumhere?label=FOLLOWERS&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/anjumhere?label=STARS&style=for-the-badge&color=yellow" alt="stars" />
+  <img src="https://img.shields.io/badge/LOCATION-Islamabad%20%F0%9F%87%B5%F0%9F%87%B0-blueviolet?style=for-the-badge&labelColor=1a1a2e&color=667eea" />
+  <img src="https://img.shields.io/badge/ORIGIN-Gilgit%20Baltistan%20%F0%9F%8F%94%EF%B8%8F-success?style=for-the-badge&labelColor=1a1a2e&color=f093fb" />
+  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Dev-critical?style=for-the-badge&labelColor=1a1a2e&color=764ba2" />
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-success?style=for-the-badge&labelColor=1a1a2e&color=00d4aa&logo=signal&logoColor=white" />
 </p>
+
+<!-- Profile Views & Social Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anjumhere&label=PROFILE+VIEWS&color=667eea&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/anjumhere?label=FOLLOWERS&style=for-the-badge&color=764ba2&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/anjumhere?label=TOTAL+STARS&style=for-the-badge&color=f093fb&logo=github" alt="stars" />
+</p>
+
+<!-- Animated Rainbow Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 </div>
 
----
+<!-- About Me Section with Side Image -->
+<img align="right" width="400" alt="Anime Coding GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
-## 🎭 **THE DEVELOPER'S TALE**
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **WHO AM I?**
 
 ```typescript
-class Developer {
-  name: string = "Adnan Anjum";
-  origin: string = "Gilgit-Baltistan 🏔️";
-  location: string = "Islamabad, Pakistan 🇵🇰";
-  role: string = "Frontend Developer";
-  
-  philosophy: string = `
-    "From mountain peaks to code peaks,
-     every line is a step forward."
-  `;
-  
-  readonly passion = {
-    code: ["Clean", "Efficient", "Beautiful"],
-    design: ["Responsive", "Accessible", "Modern"],
-    learning: ["Continuous", "Deep", "Practical"]
+interface Developer {
+  name: string;
+  location: {
+    origin: string;
+    current: string;
   };
-  
-  async dailyRoutine(): Promise<void> {
-    while (this.isAlive) {
-      await this.coffee();
-      await this.code();
-      await this.learn();
-      await this.build();
-      await this.repeat();
-    }
-  }
+  role: string;
+  experience: string[];
+  learning: string[];
+  goals: string[];
 }
 
-const adnan = new Developer();
-console.log("🚀 Leveling up, one commit at a time!");
+const adnanAnjum: Developer = {
+  name: "Adnan Anjum",
+  location: {
+    origin: "Gilgit-Baltistan 🏔️",
+    current: "Islamabad, Pakistan 🇵🇰"
+  },
+  role: "Frontend Web Developer",
+  experience: [
+    "HTML5 & Semantic Web",
+    "CSS3 & Advanced Layouts", 
+    "JavaScript & ES6+",
+    "Responsive Design",
+    "Git & GitHub"
+  ],
+  learning: [
+    "Node.js & Express.js",
+    "MongoDB & Mongoose",
+    "React.js & Next.js",
+    "TypeScript",
+    "REST APIs"
+  ],
+  goals: [
+    "Master MERN Stack 🎯",
+    "Build 10+ Projects 🚀",
+    "Contribute to Open Source 💖",
+    "Land First Dev Role 💼"
+  ]
+};
+
+// My Life Philosophy
+while (alive) {
+  eat();
+  sleep();
+  code();
+  repeat();
+}
 ```
 
 <br clear="right"/>
 
----
+<!-- Animated Section Break -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🎯 **CURRENT QUEST**
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&width=600&lines=%E2%9A%94%EF%B8%8F+MY+TECH+ARSENAL+%E2%9A%94%EF%B8%8F" alt="Tech Stack Title" />
+</div>
 
-<table>
+<br>
+
+<!-- Tech Stack with Custom Layout -->
+<table align="center">
 <tr>
-<td width="50%">
-
-### 🔥 **Active Missions**
-
-```yaml
-Mission Control:
-  🎨 Building: Responsive Web Interfaces
-  🧪 Experimenting: Modern CSS Techniques  
-  📚 Studying: Backend Development
-  🎯 Creating: Personal Portfolio
-  🌟 Contributing: Open Source Projects
-```
-
-### 🌱 **Skill Tree Unlocking**
-
-```yaml
-Backend Branch:
-  ├─ Node.js & Express.js
-  ├─ RESTful API Architecture
-  ├─ MongoDB & Mongoose
-  └─ PostgreSQL & SQL
-
-Frontend Mastery:
-  ├─ React.js Ecosystem
-  ├─ Next.js Framework
-  ├─ Tailwind CSS
-  └─ TypeScript
-```
-
-</td>
-<td width="50%">
-
-### 🎪 **2026 Achievements to Unlock**
-
-```yaml
-□ Master Full Stack Development (MERN)
-□ Ship 10+ Production Projects
-□ Contribute to 5+ OSS Projects
-□ Master TypeScript & System Design
-□ Land First Developer Role
-□ Build Something That Matters
-```
-
-### 💬 **Ask Me About**
-
-```yaml
-✅ HTML/CSS/JavaScript best practices
-✅ Responsive & Mobile-first design
-✅ Git workflows & version control
-✅ Frontend development journey
-✅ Transitioning into tech
-✅ Life in the mountains 🏔️
-✅ Coffee recommendations ☕
-```
-
-</td>
+  <td align="center" width="25%">
+    <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="65" height="65" />
+    <br><strong>HTML5</strong>
+    <br>
+    <img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=flat-square" />
+    <br>
+    <sub>Semantic • Accessible • SEO</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="65" height="65" />
+    <br><strong>CSS3</strong>
+    <br>
+    <img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=flat-square" />
+    <br>
+    <sub>Flexbox • Grid • Animations</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+    <br><strong>JavaScript</strong>
+    <br>
+    <img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=flat-square" />
+    <br>
+    <sub>ES6+ • Async • DOM</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+    <br><strong>GitHub</strong>
+    <br>
+    <img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=flat-square" />
+    <br>
+    <sub>Version Control • Collab</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+    <br><strong>React</strong>
+    <br>
+    <img src="https://img.shields.io/badge/Level-Learning-orange?style=flat-square" />
+    <br>
+    <sub>Components • Hooks</sub>
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+    <br><strong>Node.js</strong>
+    <br>
+    <img src="https://img.shields.io/badge/Level-Learning-orange?style=flat-square" />
+    <br>
+    <sub>Backend • APIs</sub>
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
+    <br><strong>MongoDB</strong>
+    <br>
+    <img src="https://img.shields.io/badge/Level-Learning-orange?style=flat-square" />
+    <br>
+    <sub>NoSQL • Mongoose</sub>
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+    <br><strong>Git</strong>
+    <br>
+    <img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=flat-square" />
+    <br>
+    <sub>Branching • Merging</sub>
+  </td>
 </tr>
 </table>
 
----
+<br>
 
-## ⚔️ **ARSENAL**
-
+<!-- Skill Icons Showcase -->
 <div align="center">
 
-### 『 CORE WEAPONS 』
+### 🎯 **COMPLETE SKILL SET**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,nextjs,tailwind,sass,bootstrap,git,github,vscode,figma,npm,vite&perline=9" />
 
-### 『 TRAINING GROUNDS 』
+</div>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,react,nextjs,tailwind,sass,figma,npm,vite,bootstrap&theme=dark" />
+<br>
 
-<br/>
+<!-- Animated Progress Bars -->
+<div align="center">
 
-### 💫 **Power Levels**
+### 📊 **SKILL LEVELS**
 
 <table>
 <tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" />
-  <br/>HTML5
-  <br/>⭐⭐⭐⭐⭐
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" />
-  <br/>CSS3
-  <br/>⭐⭐⭐⭐⭐
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" />
-  <br/>JavaScript
-  <br/>⭐⭐⭐⭐
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" />
-  <br/>Git
-  <br/>⭐⭐⭐⭐
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" />
-  <br/>React
-  <br/>⭐⭐⭐
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node" />
-  <br/>Node.js
-  <br/>⭐⭐⭐
-</td>
+  <td align="right" width="30%"><strong>HTML5</strong></td>
+  <td width="70%">
+    <img src="https://progress-bar.dev/95/?scale=100&title=&width=400&color=e34f26&suffix=%" />
+  </td>
+</tr>
+<tr>
+  <td align="right"><strong>CSS3</strong></td>
+  <td>
+    <img src="https://progress-bar.dev/90/?scale=100&title=&width=400&color=1572b6&suffix=%" />
+  </td>
+</tr>
+<tr>
+  <td align="right"><strong>JavaScript</strong></td>
+  <td>
+    <img src="https://progress-bar.dev/75/?scale=100&title=&width=400&color=f7df1e&suffix=%" />
+  </td>
+</tr>
+<tr>
+  <td align="right"><strong>React</strong></td>
+  <td>
+    <img src="https://progress-bar.dev/50/?scale=100&title=&width=400&color=61dafb&suffix=%" />
+  </td>
+</tr>
+<tr>
+  <td align="right"><strong>Node.js</strong></td>
+  <td>
+    <img src="https://progress-bar.dev/45/?scale=100&title=&width=400&color=339933&suffix=%" />
+  </td>
+</tr>
+<tr>
+  <td align="right"><strong>Git & GitHub</strong></td>
+  <td>
+    <img src="https://progress-bar.dev/80/?scale=100&title=&width=400&color=f05032&suffix=%" />
+  </td>
 </tr>
 </table>
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 📊 **BATTLE STATISTICS**
-
+<!-- GitHub Stats Section -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anjumhere&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anjumhere&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=FFD700&currStreakLabel=FFD700" width="49%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=F093FB&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+GITHUB+STATISTICS+%F0%9F%93%8A" alt="Stats Title" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjumhere&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjumhere&theme=radical&utcOffset=5" width="49%" />
+<br><br>
 
-### 📈 **Contribution Graph**
+<!-- Stats Cards -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anjumhere&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=667eea&icon_color=f093fb&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=anjumhere&theme=midnight-purple&hide_border=true&background=1a1a2e&stroke=667eea&ring=f093fb&fire=ff6b6b&currStreakLabel=f093fb&dates=ffffff&sideLabels=667eea" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjumhere&custom_title=Adnan's%20Contribution%20Journey&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjumhere&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=667eea&text_color=ffffff&langs_count=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=anjumhere&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=667eea&text_color=ffffff&layout=compact&custom_title=Weekly%20Coding%20Stats" />
+</p>
 
-### 🏆 **Achievement Gallery**
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjumhere&custom_title=📈%20Contribution%20Graph&bg_color=1a1a2e&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&area_color=764ba2" width="98%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=anjumhere&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
+<!-- 3D Contribution Chart -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjumhere&theme=midnight_purple" width="98%" />
+
+<!-- Trophies -->
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&width=400&lines=%F0%9F%8F%86+ACHIEVEMENTS+%F0%9F%8F%86" alt="Achievements" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=anjumhere&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Followers,Issues,Reviews" width="98%" />
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🎨 **FEATURED CREATIONS**
-
+<!-- Current Focus Section with Anime Theme -->
 <div align="center">
 
-### 🚀 *Building amazing projects... Stay tuned!*
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-1e2df3b6-4e68-4c7b-96af-e9f8f5b5f91a.gif" width="80%" />
-
-```
-┌─────────────────────────────────────────────┐
-│  🎯 MISSION STATUS: PROJECT PIPELINE ACTIVE │
-│                                             │
-│  > Initializing portfolio site...           │
-│  > Crafting interactive experiences...      │
-│  > Preparing for deployment...              │
-│                                             │
-│  📦 Coming Soon: Production-Ready Apps      │
-└─────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=764BA2&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AF+CURRENT+QUEST+%F0%9F%8E%AF" alt="Current Focus" />
 
 </div>
 
----
+<br>
 
-## 🎭 **DEVELOPER DNA**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🔮 Click to reveal my complete skillset matrix</b></summary>
+### 🔥 **ACTIVE MISSIONS**
 
-<br/>
+```yaml
+🎨 Building:
+  ├─ Responsive Web Interfaces
+  ├─ Interactive UI Components  
+  ├─ Personal Portfolio Site
+  └─ Open Source Contributions
 
-### 🎨 **Frontend Mastery**
+💡 Learning:
+  ├─ MERN Stack Development
+  ├─ RESTful API Design
+  ├─ Database Architecture
+  └─ Authentication & Security
+
+🚀 Planning:
+  ├─ Full Stack Projects
+  ├─ SaaS Applications
+  └─ Developer Tools
+```
+
+### 🌱 **2026 ROADMAP**
 
 ```javascript
-const frontendSkills = {
-  HTML5: {
-    mastery: "Advanced",
-    arsenal: [
-      "Semantic Markup Architecture",
-      "Accessibility Standards (WCAG 2.1, ARIA)",
-      "SEO-Optimized Structure",
-      "Form Validation & UX",
-      "Canvas & SVG Manipulation"
-    ]
-  },
-  
-  CSS3: {
-    mastery: "Advanced",
-    arsenal: [
-      "Flexbox & Grid Layout Systems",
-      "Responsive Design (Mobile-First)",
-      "Advanced Animations & Transitions",
-      "CSS Custom Properties",
-      "BEM & SMACSS Methodologies",
-      "Performance Optimization"
-    ]
-  },
-  
-  JavaScript: {
-    mastery: "Intermediate → Advanced",
-    arsenal: [
-      "ES6+ Modern Features",
-      "Async/Await & Promises",
-      "DOM Manipulation & Events",
-      "Fetch API & HTTP Requests",
-      "Local/Session Storage",
-      "Error Handling & Debugging",
-      "Functional Programming",
-      "Module Systems"
-    ]
-  }
+const goals2026 = {
+  technical: [
+    '✅ Master MERN Stack',
+    '⏳ TypeScript Proficiency',
+    '⏳ System Design Basics',
+    '📋 DevOps Fundamentals'
+  ],
+  projects: [
+    '⏳ 10+ Production Apps',
+    '📋 5+ Open Source Contributions',
+    '📋 Personal SaaS Product'
+  ],
+  career: [
+    '🎯 First Developer Role',
+    '📋 Tech Community Building',
+    '📋 Mentoring Beginners'
+  ]
 };
 ```
 
-### 🛠️ **Development Ecosystem**
+</td>
+<td width="50%" valign="top">
+
+### 💬 **COLLABORATION**
 
 ```yaml
-Version Control:
-  Git: Advanced
-    - Branching strategies
-    - Merge conflict resolution
-    - Rebase workflows
-    - GitHub collaboration
-  
-Development Environment:
-  Editor: VS Code
-    - Extensions ecosystem
-    - Snippets & productivity
-    - Debugging tools
-  Terminal: Git Bash, PowerShell
-  Package Manager: npm, npx
+Open to:
+  ├─ Web Application Projects
+  ├─ Open Source Contributions
+  ├─ Startup MVP Development
+  ├─ Learning & Pair Programming
+  └─ Tech Community Events
 
-Design Tools:
-  Figma: Learning
-  Adobe XD: Familiar
-  Chrome DevTools: Advanced
+Looking for:
+  ├─ Backend Architecture Guidance
+  ├─ System Design Best Practices
+  ├─ Code Review & Feedback
+  └─ Career Mentorship
 
-Testing & Quality:
-  - Chrome DevTools
-  - Cross-browser testing
-  - Responsive design testing
-  - Performance auditing
+Can help with:
+  ├─ HTML/CSS/JS Best Practices
+  ├─ Responsive Design
+  ├─ Git Workflows
+  ├─ Frontend Development Tips
+  └─ Beginner Programming Questions
 ```
 
-### 🧠 **Soft Skills Arsenal**
+### 🎮 **FUN FACTS**
 
-```yaml
-Technical Mindset:
-  - Algorithmic thinking
-  - Problem decomposition
-  - Pattern recognition
-  - Code optimization
-  - Documentation writing
+```javascript
+const funFacts = {
+  origin: "Mountain boy 🏔️",
+  fuel: "Coffee addict ☕",
+  hobby: "Building side projects",
+  superpower: "Debugging at 3 AM",
+  motto: "Code, Learn, Build, Repeat!",
+  dream: "Impact millions with code"
+};
 
-Professional Skills:
-  - Self-directed learning
-  - Time management
-  - Attention to detail
-  - Clear communication
-  - Constructive feedback
-
-Growth Attributes:
-  - Curiosity-driven
-  - Resilient problem solver
-  - Team collaboration
-  - Continuous improvement
-  - Adaptable to change
+console.log("Let's build! 🚀");
 ```
 
-</details>
-
----
-
-## 🌊 **CONTRIBUTION JOURNEY**
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjumhere/anjumhere/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjumhere/anjumhere/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anjumhere/anjumhere/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-### 💭 **Today's Wisdom**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
----
-
-## 🌸 **CONNECT & COLLABORATE**
-
-<div align="center">
-
-### 『 Let's Build Something Extraordinary Together 』
-
-<p>
-  <em>
-    Always open to interesting conversations, innovative projects,<br/>
-    and opportunities to learn and grow together!
-  </em>
-</p>
-
-### 📬 **Reach Out**
-
-<p>
-  <a href="mailto:anjumcode12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/adnan-anjum-196a373a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/anjumhere">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-```diff
-@@ Contact Information @@
-
-+ 📧 Email: anjumcode12@gmail.com
-+ 💼 LinkedIn: linkedin.com/in/adnan-anjum-196a373a1/
-+ 🐙 GitHub: github.com/anjumhere
-+ 📍 Location: Islamabad, Pakistan
-+ 🏔️ Origin: Gilgit-Baltistan
-+ ⚡ Fun Fact: Started coding in the mountains!
-```
-
-<br/>
-
-### ⭐ **Support My Journey**
-
-<p>
-  If you find value in my work or just want to spread some good vibes:
-</p>
-
-<table>
-  <tr>
-    <td align="center">⭐<br/>Star my repos</td>
-    <td align="center">🔗<br/>Connect on LinkedIn</td>
-    <td align="center">💬<br/>Share feedback</td>
-    <td align="center">🤝<br/>Collaborate on projects</td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
-
-</div>
-
----
-
+<!-- Activity Section with Snake Animation -->
 <div align="center">
 
-### 💫 **"Code is poetry written for machines to execute and humans to understand"**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&width=600&lines=%F0%9F%90%8D+CONTRIBUTION+SNAKE+%F0%9F%90%8D" alt="Snake Animation" />
 
-### 🌟 **From the mountains to the code — Adnan Anjum** 🏔️ → 💻
+<br><br>
 
-<br/>
-
-**Let's turn ideas into reality, one commit at a time!** 🚀
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
----
+<br>
 
-<!-- 
-███████╗ █████╗ ███████╗████████╗███████╗██████╗     ███████╗ ██████╗  ██████╗ 
-██╔════╝██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗    ██╔════╝██╔════╝ ██╔════╝ 
-█████╗  ███████║███████╗   ██║   █████╗  ██████╔╝    █████╗  ██║  ███╗██║  ███╗
-██╔══╝  ██╔══██║╚════██║   ██║   ██╔══╝  ██╔══██╗    ██╔══╝  ██║   ██║██║   ██║
-███████╗██║  ██║███████║   ██║   ███████╗██║  ██║    ███████╗╚██████╔╝╚██████╔╝
-╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝  ╚═════╝ 
+<!-- Quote Section -->
+<div align="center">
 
-🎉 YOU FOUND THE SECRET! 🎉
+### 💭 **DAILY MOTIVATION**
 
-Congratulations, fellow code explorer! You've discovered the hidden message.
-If you mention "Mountain Code" when you reach out, I'll know you're a real one! 🏔️
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in" />
 
-Keep exploring, keep building, keep growing! 🚀
-- Adnan
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- Connect Section -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&color=F093FB&center=true&vCenter=true&width=800&lines=%F0%9F%8C%8F+LET'S+CONNECT+%26+COLLABORATE+%F0%9F%8C%8F" alt="Connect Title" />
+
+<br>
+
+<p>
+  <em>"The best way to predict the future is to build it together!"</em>
+</p>
+
+<br>
+
+<!-- Animated Social Links -->
+<p>
+  <a href="mailto:anjumcode12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adnan-anjum-196a373a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/anjumhere">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub"/>
+  </a>
+</p>
+
+<br>
+
+<!-- Contact Card -->
+<table align="center">
+<tr>
+<td>
+
+```yaml
+📧 Email: anjumcode12@gmail.com
+💼 LinkedIn: linkedin.com/in/adnan-anjum-196a373a1/
+🐙 GitHub: github.com/anjumhere
+📍 Location: Islamabad, Pakistan
+🏔️ Hometown: Gilgit-Baltistan
+⚡ Status: Open to Opportunities
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Support Section -->
+### ⭐ **SUPPORT MY JOURNEY**
+
+<table>
+<tr>
+  <td align="center" width="20%">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" width="50"/>
+    <br><strong>Star Repos</strong>
+  </td>
+  <td align="center" width="20%">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="50"/>
+    <br><strong>Connect</strong>
+  </td>
+  <td align="center" width="20%">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="50"/>
+    <br><strong>Feedback</strong>
+  </td>
+  <td align="center" width="20%">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50"/>
+    <br><strong>Collaborate</strong>
+  </td>
+  <td align="center" width="20%">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50"/>
+    <br><strong>Build Together</strong>
+  </td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Coding" width="300" />
+
+<br>
+
+### 💫 **FROM MOUNTAIN PEAKS TO CODE PEAKS** 🏔️ → 💻
+
+<br>
+
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+</p>
+
+</div>
+
+<!-- Hidden Easter Egg -->
+<!--
+
+    ███████╗ █████╗ ███████╗████████╗███████╗██████╗     ███████╗ ██████╗  ██████╗ 
+    ██╔════╝██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗    ██╔════╝██╔════╝ ██╔════╝ 
+    █████╗  ███████║███████╗   ██║   █████╗  ██████╔╝    █████╗  ██║  ███╗██║  ███╗
+    ██╔══╝  ██╔══██║╚════██║   ██║   ██╔══╝  ██╔══██╗    ██╔══╝  ██║   ██║██╔ ══╝
+    ███████╗██║  ██║███████║   ██║   ███████╗██║  ██║    ███████╗╚██████╔╝╚██████╔╝
+    ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝  ╚═════╝ 
+
+    🎉 CONGRATULATIONS! YOU FOUND THE HIDDEN MESSAGE! 🎉
+
+    You are a true explorer! 🕵️‍♂️
+    
+    If you're reading this, you've discovered my secret.
+    Mention "Mountain Code Master" when you reach out, and I'll know you're one of the curious ones!
+    
+    Keep exploring, keep coding, keep building amazing things! 🚀
+    
+    From the mountains with love 🏔️
+    - Adnan Anjum
+    
+    P.S. The best developers are the curious ones 😉
+
 -->
+
+<div align="center">
+  
+  <!-- Visitor Counter -->
+  <img src="https://count.getloli.com/get/@anjumhere?theme=moebooru" alt="Visitor Count" />
+  
+</div>

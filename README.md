@@ -1,474 +1,411 @@
 <div align="center">
 
-<!-- Animated Header with Glitch Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=ADNAN%20ANJUM&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%E3%80%8E%20Frontend%20Developer%20%E3%80%8F%20%E2%80%A2%20%E3%80%8E%20Code%20Craftsman%20%E3%80%8F%20%E2%80%A2%20%E3%80%8E%20Learning%20Enthusiast%20%E3%80%8F&descAlignY=55&descSize=20&descAlign=50"/>
+<!-- Anime-Style Header with Dynamic Typing -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27,30&height=300&section=header&text=ADNAN%20ANJUM&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20JavaScript%20Enthusiast%20%E2%80%A2%20Lifelong%20Learner&descAlignY=55&descSize=16"/>
 
-<!-- Epic Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=150&lines=%F0%9F%8F%94%EF%B8%8F+Born+in+Gilgit-Baltistan%2C+Pakistan;%F0%9F%92%BB+Currently+coding+from+Islamabad;%E2%98%95+Turning+coffee+into+clean+code;%F0%9F%9A%80+Let's+build+something+amazing!" alt="Typing SVG" /></a>
+<!-- Epic Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+digital+workspace!+%F0%9F%9A%80;Building+the+web%2C+one+component+at+a+time;Currently+mastering+JavaScript+%26+React" alt="Typing SVG" />
+</a>
+
+<br>
+
+<!-- Dynamic Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-3b82f6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-JavaScript%20%26%20React-f59e0b?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-10b981?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anjumhere&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/anjumhere?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
+</p>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Dynamic Badges with Animation -->
-<p align="center">
-  <img src="https://img.shields.io/badge/ORIGIN-Gilgit%20Baltistan%20%F0%9F%8F%94%EF%B8%8F-success?style=for-the-badge&labelColor=1a1a2e&color=10b981" />
-  <img src="https://img.shields.io/badge/BASED%20IN-Islamabad%2C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-blueviolet?style=for-the-badge&labelColor=1a1a2e&color=667eea" />
-  <img src="https://img.shields.io/badge/ROLE-Frontend%20Developer-critical?style=for-the-badge&labelColor=1a1a2e&color=f093fb" />
-  <img src="https://img.shields.io/badge/LEARNING-JavaScript%20%2B%20Git-yellow?style=for-the-badge&labelColor=1a1a2e&color=fbbf24&logo=javascript&logoColor=white" />
-</p>
-
-<!-- Profile Views & Social Stats -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjumhere&label=Profile+Views&color=667eea&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/anjumhere?label=Followers&style=for-the-badge&color=764ba2&logo=github" alt="followers" />
-  <img src="https://img.shields.io/github/stars/anjumhere?label=Total+Stars&style=for-the-badge&color=f093fb&logo=github" alt="stars" />
-</p>
-
-<!-- Animated Rainbow Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 </div>
 
 <br>
 
-<!-- About Me Section with Side Image -->
-<img align="right" width="400" alt="Coding GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+<!-- About Me Section with Anime GIF -->
+<img align="right" width="400" alt="Coding Animation" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **About Me**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> About Me
 
-Hi there! I'm **Adnan Anjum**, a passionate **Frontend Web Developer** from the beautiful mountains of **Gilgit-Baltistan**, currently based in **Islamabad, Pakistan** 🇵🇰
-
-### 🎯 **Who I Am:**
-- 🏔️ **From:** Gilgit-Baltistan (Pakistan's Mountain Paradise)
-- 📍 **Currently in:** Islamabad, Pakistan
-- 👨‍💻 **Role:** Frontend Web Developer
-- 🎓 **Education:** Intermediate in Computer Science
-- 💼 **Status:** Learning & Building
-- ⚡ **Fun Fact:** Started my coding journey in the mountains!
-
-### 💻 **What I Do:**
-I specialize in building **clean, responsive, and user-friendly websites** using:
-- ✅ HTML5 (Semantic, Accessible)
-- ✅ CSS3 (Flexbox, Grid, Animations)
-- ✅ JavaScript (ES6+, DOM Manipulation, Async)
-- ✅ Git & GitHub (Version Control)
-
-### 🌱 **Currently Learning:**
-I'm expanding my skillset by diving into:
-- 📚 Advanced JavaScript concepts
-- 📚 React.js fundamentals
-- 📚 Responsive design patterns
-- 📚 Web performance optimization
-
-### 🎯 **My Goals for 2026:**
-```yaml
-Short Term:
-  - Master JavaScript fundamentals completely
-  - Build 10+ responsive web projects
-  - Contribute to open source projects
-  - Create an amazing portfolio website
-
-Long Term:
-  - Learn React.js and modern frameworks
-  - Eventually explore backend (Node.js)
-  - Land my first developer job
-  - Build products that help people
-```
-
-<br clear="right"/>
-
-<!-- Animated Section Break -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<!-- Code Block About Me -->
-<div align="center">
-
-## 📝 **My Developer Profile**
-
-</div>
-
-```javascript
-const adnanAnjum = {
-    // Personal Info
+```typescript
+const developer = {
     name: "Adnan Anjum",
-    pronouns: "He/Him",
-    location: {
-        hometown: "Gilgit-Baltistan, Pakistan 🏔️",
-        current: "Islamabad, Pakistan 🇵🇰"
-    },
-    
-    // Education & Role
+    location: "Islamabad, Pakistan 🇵🇰",
+    from: "Gilgit-Baltistan",
+    role: "Frontend Developer",
     education: "Intermediate in Computer Science",
-    currentRole: "Frontend Web Developer",
-    experience: "Building responsive websites",
     
-    // Tech Stack (What I Actually Know)
-    languages: {
-        expert: ["HTML5", "CSS3"],
-        intermediate: ["JavaScript (ES6+)"],
-        learning: ["React.js basics"]
-    },
-    
-    // Tools I Use Daily
-    tools: {
-        editor: "VS Code",
-        versionControl: "Git & GitHub",
-        design: "Chrome DevTools",
-        browser: "Chrome/Firefox"
-    },
-    
-    // What I'm Currently Learning
     currentlyLearning: [
-        "Advanced JavaScript patterns",
-        "React.js fundamentals", 
-        "Clean code principles",
-        "Web accessibility"
+        "Advanced JavaScript (ES6+)",
+        "React.js & Modern Frameworks",
+        "TypeScript Fundamentals",
+        "Web Performance & Optimization"
     ],
     
-    // Future Learning Path (Not Backend Yet!)
-    futureGoals: [
-        "Master React.js ecosystem",
-        "TypeScript basics",
-        "Next.js framework",
-        "Then eventually backend (Node.js)"
-    ],
+    expertise: {
+        core: ["HTML5", "CSS3", "JavaScript"],
+        styling: ["Flexbox", "Grid", "Animations", "Responsive Design"],
+        tools: ["Git", "GitHub", "VS Code", "npm"]
+    },
     
-    // Professional Skills
-    skills: {
-        frontend: [
-            "Semantic HTML5",
-            "CSS Flexbox & Grid",
-            "Responsive Design (Mobile-First)",
-            "CSS Animations & Transitions",
-            "JavaScript DOM Manipulation",
-            "Async JavaScript & Fetch API",
-            "Git version control",
-            "Cross-browser compatibility"
+    goals2026: {
+        technical: [
+            "Master JavaScript deeply",
+            "Build production-ready React apps",
+            "Contribute to open source",
+            "Learn TypeScript & Next.js"
         ],
-        
-        softSkills: [
-            "Problem solving",
-            "Fast learner",
-            "Self-motivated",
-            "Attention to detail",
-            "Clean code practices"
+        career: [
+            "Create stunning portfolio",
+            "Build 15+ quality projects",
+            "Land first developer role",
+            "Join tech community"
         ]
     },
     
-    // Life Philosophy
-    motto: "Learn by building, grow by sharing",
-    
-    // Daily Routine
-    dailyRoutine: function() {
-        while (alive) {
-            drinkCoffee();
-            learnSomethingNew();
-            writeCleanCode();
-            buildProjects();
-            repeat();
-        }
-    }
+    passions: ["Clean Code", "UI/UX Design", "Problem Solving"],
+    workStyle: "Learning by building, growing by sharing",
+    funFact: "Started my coding journey in the mountains!"
 };
-
-// From mountains to code!
-console.log("🏔️ → 💻 Let's build the future!");
 ```
 
-<br>
+### 🎯 What I'm All About
 
-<!-- Animated Divider -->
+- 💻 **Building:** Responsive, accessible, and performant web applications
+- 📚 **Learning:** Constantly expanding my JavaScript and React knowledge
+- 🎨 **Creating:** Beautiful user interfaces with attention to detail
+- 🤝 **Collaborating:** Open to working on interesting projects together
+- 🚀 **Growing:** From fundamentals to advanced concepts, one day at a time
+
+<br clear="right"/>
+
+<!-- Animated Rainbow Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- Tech Stack Section -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&width=600&lines=%E2%9A%A1+MY+TECH+STACK+%E2%9A%A1" alt="Tech Stack Title" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" /> Tech Arsenal
 
 </div>
 
-<br>
+### 🔥 **Core Technologies** (What I Actually Use Daily)
 
-<!-- Current Skills (What I Actually Know) -->
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
-  <td align="center" width="25%">
-    <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="80" height="80" />
+  <td align="center" width="20%">
+    <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="65" height="65" />
     <br><strong>HTML5</strong>
-    <br><br>
-    <img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=for-the-badge" />
-    <br><br>
-    <sub>• Semantic markup<br>• Accessibility<br>• SEO best practices<br>• Forms & validation</sub>
+    <br><sub>⭐⭐⭐⭐⭐</sub>
+    <br><sub>Semantic • Accessible</sub>
   </td>
-  <td align="center" width="25%">
-    <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="80" height="80" />
+  <td align="center" width="20%">
+    <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="65" height="65" />
     <br><strong>CSS3</strong>
-    <br><br>
-    <img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=for-the-badge" />
-    <br><br>
-    <sub>• Flexbox & Grid<br>• Animations<br>• Responsive design<br>• Mobile-first</sub>
+    <br><sub>⭐⭐⭐⭐⭐</sub>
+    <br><sub>Flexbox • Grid • Animations</sub>
   </td>
-  <td align="center" width="25%">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80" />
+  <td align="center" width="20%">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
     <br><strong>JavaScript</strong>
-    <br><br>
-    <img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge" />
-    <br><br>
-    <sub>• ES6+ features<br>• DOM manipulation<br>• Async/Await<br>• Fetch API</sub>
+    <br><sub>⭐⭐⭐⭐</sub>
+    <br><sub>ES6+ • DOM • Async</sub>
   </td>
-  <td align="center" width="25%">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git & GitHub" width="80" height="80" />
+  <td align="center" width="20%">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
     <br><strong>Git & GitHub</strong>
-    <br><br>
-    <img src="https://img.shields.io/badge/Level-Intermediate-yellow?style=for-the-badge" />
-    <br><br>
-    <sub>• Version control<br>• Branching<br>• Collaboration<br>• Open source</sub>
+    <br><sub>⭐⭐⭐⭐</sub>
+    <br><sub>Version Control</sub>
+  </td>
+  <td align="center" width="20%">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="65" height="65" />
+    <br><strong>VS Code</strong>
+    <br><sub>⭐⭐⭐⭐⭐</sub>
+    <br><sub>Primary IDE</sub>
   </td>
 </tr>
 </table>
 
-<br>
+</div>
 
-<!-- Learning Path (What I'm Learning Now) -->
+### 🌱 **Currently Learning** (Active Study)
+
 <div align="center">
 
-### 🌱 **Currently Learning**
+<table>
+<tr>
+  <td align="center" width="25%">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+    <br><strong>React.js</strong>
+    <br><sub>⭐⭐⭐</sub>
+    <br><sub>Components • Hooks</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+    <br><strong>TypeScript</strong>
+    <br><sub>⭐⭐</sub>
+    <br><sub>Just Started</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="65" height="65" />
+    <br><strong>Tailwind CSS</strong>
+    <br><sub>⭐⭐⭐</sub>
+    <br><sub>Utility-First</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="65" height="65" />
+    <br><strong>Sass/SCSS</strong>
+    <br><sub>⭐⭐</sub>
+    <br><sub>Learning</sub>
+  </td>
+</tr>
+</table>
+
+</div>
+
+### 📊 **Skill Progression** (Honest Assessment)
 
 <table align="center">
-<tr>
-  <td align="center" width="33%">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80" />
-    <br><strong>React.js</strong>
-    <br><br>
-    <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge" />
-    <br><br>
-    <sub>Starting to learn<br>components & hooks</sub>
-  </td>
-  <td align="center" width="33%">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="80" height="80" />
-    <br><strong>Tailwind CSS</strong>
-    <br><br>
-    <img src="https://img.shields.io/badge/Status-Exploring-orange?style=for-the-badge" />
-    <br><br>
-    <sub>Utility-first CSS<br>framework basics</sub>
-  </td>
-  <td align="center" width="33%">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="80" height="80" />
-    <br><strong>Sass/SCSS</strong>
-    <br><br>
-    <img src="https://img.shields.io/badge/Status-Exploring-orange?style=for-the-badge" />
-    <br><br>
-    <sub>CSS preprocessor<br>for better styling</sub>
-  </td>
-</tr>
+<tr><td>
+
+| Technology | Progress | Level |
+|:-----------|:---------|:------|
+| HTML5 & Semantic Web | ![](https://progress-bar.dev/90/?scale=100&width=200&color=e34f26) | Advanced |
+| CSS3 & Responsive Design | ![](https://progress-bar.dev/85/?scale=100&width=200&color=1572b6) | Advanced |
+| JavaScript (ES6+) | ![](https://progress-bar.dev/65/?scale=100&width=200&color=f7df1e) | Intermediate |
+| Git & Version Control | ![](https://progress-bar.dev/70/?scale=100&width=200&color=f05032) | Intermediate |
+| React.js | ![](https://progress-bar.dev/30/?scale=100&width=200&color=61dafb) | Learning |
+| TypeScript | ![](https://progress-bar.dev/15/?scale=100&width=200&color=3178c6) | Beginner |
+
+</td></tr>
 </table>
 
-</div>
-
-<br>
-
-<!-- All Technologies I'm Familiar With -->
 <div align="center">
 
-### 🛠️ **Technologies & Tools**
+### 🛠️ **All Technologies**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma,npm,vite,bootstrap,tailwind,sass&perline=7" />
-
-</div>
-
-<br>
-
-<!-- Skill Progress Bars (Honest Levels) -->
-<div align="center">
-
-### 📊 **Skill Levels (Honest Assessment)**
-
-<table>
-<tr>
-  <td align="right" width="30%"><strong>HTML5 & Semantic Web</strong></td>
-  <td width="70%">
-    <img src="https://progress-bar.dev/90/?scale=100&title=&width=400&color=e34f26&suffix=%" />
-  </td>
-</tr>
-<tr>
-  <td align="right"><strong>CSS3 & Responsive Design</strong></td>
-  <td>
-    <img src="https://progress-bar.dev/85/?scale=100&title=&width=400&color=1572b6&suffix=%" />
-  </td>
-</tr>
-<tr>
-  <td align="right"><strong>JavaScript (ES6+)</strong></td>
-  <td>
-    <img src="https://progress-bar.dev/65/?scale=100&title=&width=400&color=f7df1e&suffix=%" />
-  </td>
-</tr>
-<tr>
-  <td align="right"><strong>Git & GitHub</strong></td>
-  <td>
-    <img src="https://progress-bar.dev/70/?scale=100&title=&width=400&color=f05032&suffix=%" />
-  </td>
-</tr>
-<tr>
-  <td align="right"><strong>React.js (Learning)</strong></td>
-  <td>
-    <img src="https://progress-bar.dev/30/?scale=100&title=&width=400&color=61dafb&suffix=%" />
-  </td>
-</tr>
-<tr>
-  <td align="right"><strong>Responsive Web Design</strong></td>
-  <td>
-    <img src="https://progress-bar.dev/80/?scale=100&title=&width=400&color=764ba2&suffix=%" />
-  </td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,github,vscode,npm,vite,tailwind,sass,figma,bootstrap&perline=7" />
 
 </div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<!-- What I'm Working On -->
+<!-- Featured Projects -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=F093FB&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AF+WHAT+I'M+UP+TO+%F0%9F%8E%AF" alt="Current Work" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35" /> Featured Projects
 
 </div>
-
-<br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 **Currently Working On**
+### 🧠 [Interactive Quiz App](https://github.com/anjumhere/interactive-quiz)
 
-```yaml
-Projects:
-  - Building responsive websites
-  - Creating my portfolio site
-  - Learning React.js basics
-  - Practicing JavaScript daily
-  - Improving Git workflow
+<a href="https://github.com/anjumhere/interactive-quiz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjumhere&repo=interactive-quiz&theme=tokyonight&hide_border=true" />
+</a>
 
-Focus Areas:
-  - Clean, semantic HTML
-  - Modern CSS techniques
-  - JavaScript fundamentals
-  - Responsive design patterns
-  - Web accessibility
-```
+**Tech Stack:** HTML • CSS • Vanilla JS
 
-### 🎯 **2026 Goals**
+**Features:**
+- ✅ Random question selection
+- ✅ Instant answer feedback
+- ✅ Score tracking & results
+- ✅ 100% responsive design
+- ✅ Clean, maintainable code
 
-```javascript
-const goals2026 = [
-  "✅ Master HTML & CSS completely",
-  "⏳ Become proficient in JavaScript",
-  "⏳ Build 10+ portfolio projects",
-  "⏳ Learn React.js fundamentals",
-  "⏳ Contribute to open source",
-  "📋 Create a stunning portfolio",
-  "📋 Land first developer role"
-];
-```
+**What I Learned:**
+- DOM manipulation
+- Array methods & algorithms
+- Event handling
+- State management
+- Fisher-Yates shuffle
+
+[🔗 Live Demo](https://anjumhere.github.io/interactive-quiz/) • [💻 Source Code](https://github.com/anjumhere/interactive-quiz)
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 **Ask Me About**
+### 🎨 Portfolio Website _(In Progress)_
 
-```yaml
-Happy to discuss:
-  - HTML5 best practices
-  - CSS Flexbox & Grid layouts
-  - Responsive design tips
-  - JavaScript fundamentals
-  - Git & GitHub basics
-  - Learning to code
-  - Life in Gilgit-Baltistan
-  - Moving to Islamabad
-  - Starting a tech career
-```
+<img src="https://img.shields.io/badge/Status-Building-orange?style=for-the-badge" />
 
-### 🤝 **Open to Collaborate On**
+**Tech Stack:** HTML • CSS • JavaScript • React _(planned)_
 
-```yaml
-Interested in:
-  - Frontend web projects
-  - Practice/learning projects
-  - Open source contributions
-  - Building portfolios together
-  - Code reviews & feedback
-  - Study groups
-```
+**Planned Features:**
+- 🎯 Project showcase
+- 🎨 Modern, animated UI
+- 📱 Fully responsive
+- 🌙 Dark/Light mode
+- 📧 Contact form
+
+**Goals:**
+- Showcase my best work
+- Demonstrate React skills
+- Create unique design
+- Optimize performance
+
+_Coming Soon: Q1 2026_
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+### 📦 **More Projects Coming Soon!**
+
+I'm actively building projects to strengthen my portfolio. Follow my journey!
+
+</div>
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<!-- GitHub Stats Section -->
+<!-- GitHub Stats -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+GITHUB+STATS+%F0%9F%93%8A" alt="Stats Title" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" /> GitHub Analytics
+
+<br>
+
+<!-- Main Stats Cards -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjumhere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=60a5fa&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=anjumhere&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=60a5fa&fire=f59e0b&currStreakLabel=60a5fa&dates=c9d1d9&sideLabels=3b82f6" />
 
 <br><br>
 
-<!-- Stats Cards -->
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anjumhere&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=667eea&icon_color=f093fb&text_color=ffffff&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=anjumhere&theme=midnight-purple&hide_border=true&background=1a1a2e&stroke=667eea&ring=f093fb&fire=ff6b6b&currStreakLabel=f093fb&dates=ffffff&sideLabels=667eea" />
-</p>
+<!-- Language Stats & Activity -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjumhere&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjumhere&theme=tokyonight" />
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjumhere&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a1a2e&title_color=667eea&text_color=ffffff&langs_count=8" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjumhere&theme=midnight_purple" />
-</p>
+<br><br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjumhere&custom_title=📈%20Contribution%20Graph&bg_color=1a1a2e&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&area_color=764ba2" width="98%"/>
-
-<!-- 3D Contribution Chart -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjumhere&theme=midnight_purple" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjumhere&custom_title=📊%20Contribution%20Activity&bg_color=0d1117&color=3b82f6&line=60a5fa&point=c9d1d9&area=true&hide_border=true&area_color=3b82f6" width="98%"/>
 
 <br>
 
-<!-- Trophies -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=500&color=F093FB&center=true&vCenter=true&width=400&lines=%F0%9F%8F%86+ACHIEVEMENTS+%F0%9F%8F%86" alt="Achievements" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=anjumhere&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="98%" />
+<!-- Achievement Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=anjumhere&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="98%" />
 
 </div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<!-- Contribution Snake Animation -->
+<!-- Current Focus & Goals -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=764BA2&center=true&vCenter=true&width=600&lines=%F0%9F%90%8D+CONTRIBUTION+SNAKE+%F0%9F%90%8D" alt="Snake Animation" />
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="35" /> Current Focus & 2026 Goals
 
 </div>
 
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- Quote Section -->
+### 🔥 **What I'm Working On Right Now**
+
+```yaml
+Daily Practice:
+  - JavaScript algorithms & patterns
+  - Building React components
+  - Contributing to open source
+  - Code challenges (LeetCode, Codewars)
+
+Current Projects:
+  - Personal portfolio website
+  - React.js practice applications
+  - Interactive web components
+  - Learning TypeScript basics
+
+Focus Areas:
+  - Clean, maintainable code
+  - Responsive design patterns
+  - Web accessibility (a11y)
+  - Performance optimization
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 **2026 Roadmap**
+
+```javascript
+const goals = {
+  Q1: [
+    "✅ Master JavaScript fundamentals",
+    "⏳ Build 5 React projects",
+    "⏳ Launch personal portfolio",
+    "📋 Start TypeScript learning"
+  ],
+  
+  Q2: [
+    "📋 Advanced React patterns",
+    "📋 Learn Next.js basics",
+    "📋 Build full-stack project",
+    "📋 5+ open source contributions"
+  ],
+  
+  Q3: [
+    "📋 Master TypeScript",
+    "📋 Learn state management (Redux)",
+    "📋 Build SaaS application",
+    "📋 Network with dev community"
+  ],
+  
+  Q4: [
+    "📋 Complete portfolio of 15+ projects",
+    "📋 Land first developer role",
+    "📋 Continue learning backend",
+    "📋 Give back to community"
+  ]
+};
+```
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-### 💭 **Daily Inspiration**
+### 💡 **What I Can Help With**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in" />
+<table>
+<tr>
+  <td align="center" width="33%">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50"/>
+    <br><strong>Ask Me About</strong>
+    <br><br>
+    <sub>• HTML5 best practices<br>• CSS Flexbox & Grid<br>• Responsive design tips<br>• JavaScript fundamentals<br>• Git & GitHub basics</sub>
+  </td>
+  <td align="center" width="33%">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="50"/>
+    <br><strong>Let's Collaborate On</strong>
+    <br><br>
+    <sub>• Frontend projects<br>• Open source contributions<br>• Learning projects<br>• Code reviews<br>• Study groups</sub>
+  </td>
+  <td align="center" width="33%">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="50"/>
+    <br><strong>Currently Learning</strong>
+    <br><br>
+    <sub>• React.js ecosystem<br>• TypeScript<br>• Advanced JavaScript<br>• Web performance<br>• Design systems</sub>
+  </td>
+</tr>
+</table>
 
 </div>
 
@@ -478,91 +415,41 @@ Interested in:
 <!-- Connect Section -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&width=700&lines=%F0%9F%8C%8F+LET'S+CONNECT!+%F0%9F%8C%8F" alt="Connect Title" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="35" /> Let's Connect!
 
 <br>
 
-### 📬 **How to Reach Me**
-
-I'm always open to connecting with fellow developers, discussing projects,<br>
-or just having a chat about tech and coding!
+### I'm always open to interesting conversations and collaboration opportunities!
 
 <br>
 
-<!-- Social Links -->
-<p>
-  <a href="mailto:anjumcode12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anjumcode12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email"/>
-  </a>
-</p>
+<!-- Social Links with Icons -->
+<a href="mailto:anjumcode12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-anjumcode12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<p>
-  <a href="https://www.linkedin.com/in/adnan-anjum-196a373a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Adnan%20Anjum-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/adnan-anjum-196a373a1/">
+  <img src="https://img.shields.io/badge/LinkedIn-Adnan%20Anjum-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<p>
-  <a href="https://github.com/anjumhere">
-    <img src="https://img.shields.io/badge/GitHub-@anjumhere-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub"/>
-  </a>
-</p>
+<a href="https://github.com/anjumhere">
+  <img src="https://img.shields.io/badge/GitHub-@anjumhere-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br>
-
-<!-- Contact Card -->
-<table align="center">
-<tr>
-<td align="center">
-
-### 📇 **Contact Information**
-
-```yaml
-Name: Adnan Anjum
-Pronouns: He/Him
-Email: anjumcode12@gmail.com
-LinkedIn: linkedin.com/in/adnan-anjum-196a373a1/
-GitHub: github.com/anjumhere
-
-Location:
-  Current: Islamabad, Pakistan
-  Hometown: Gilgit-Baltistan
-  
-Role: Frontend Web Developer
-Education: Intermediate in Computer Science
-Status: Learning & Growing
-
-Languages:
-  - Urdu (Native)
-  - English (Fluent)
-  
-Interests:
-  - Web Development
-  - Clean Code
-  - Open Source
-  - Tech Communities
-```
-
-</td>
-</tr>
-</table>
-
-<br>
+<br><br>
 
 <!-- Support Section -->
-### ⭐ **Support My Journey**
-
 <table>
 <tr>
   <td align="center" width="25%">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" width="60"/>
     <br><strong>Star My Repos</strong>
-    <br><sub>Show appreciation</sub>
+    <br><sub>If you find them helpful!</sub>
   </td>
   <td align="center" width="25%">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60"/>
-    <br><strong>Connect on LinkedIn</strong>
-    <br><sub>Let's network</sub>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="60"/>
+    <br><strong>Follow Me</strong>
+    <br><sub>For my learning journey</sub>
   </td>
   <td align="center" width="25%">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="60"/>
@@ -570,61 +457,57 @@ Interests:
     <br><sub>Help me improve</sub>
   </td>
   <td align="center" width="25%">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60"/>
     <br><strong>Collaborate</strong>
-    <br><sub>Build together</sub>
+    <br><sub>Let's build together!</sub>
   </td>
 </tr>
 </table>
 
-<br><br>
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Coding" width="300" />
-
-<br><br>
-
-### 💫 **"From the Mountains to the Code"** 🏔️ → 💻
-
-<p>
-  <em>Every line of code is a step forward in my journey!</em>
-</p>
+---
 
 <br>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=120&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%91%8B&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+### 💭 **Developer Mindset**
 
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
 
-<!-- Hidden Easter Egg -->
-<!--
+<br>
 
-    ███████╗ █████╗ ███████╗████████╗███████╗██████╗     ███████╗ ██████╗  ██████╗ 
-    ██╔════╝██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗    ██╔════╝██╔════╝ ██╔════╝ 
-    █████╗  ███████║███████╗   ██║   █████╗  ██████╔╝    █████╗  ██║  ███╗██║  ███╗
-    ██╔══╝  ██╔══██║╚════██║   ██║   ██╔══╝  ██╔══██╗    ██╔══╝  ██║   ██║██║   ██║
-    ███████╗██║  ██║███████║   ██║   ███████╗██║  ██║    ███████╗╚██████╔╝╚██████╔╝
-    ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝  ╚═════╝ 
+### 📊 **Profile Statistics**
 
-    🎉 CONGRATULATIONS! YOU FOUND THE EASTER EGG! 🎉
+![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
 
-    You're a true code explorer! 🕵️
-    
-    If you mention "Mountain Code" when you reach out,
-    I'll know you're someone who pays attention to details!
-    
-    Keep coding, keep learning, keep building! 🚀
-    
-    From Gilgit-Baltistan with ❤️
-    - Adnan Anjum
-    
-    P.S. The best developers are curious ones 😉
+<br><br>
 
--->
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
-<div align="center">
-  
-  <!-- Visitor Counter -->
-  <img src="https://count.getloli.com/get/@anjumhere?theme=moebooru" alt="Visitor Count" />
-  
+<br><br>
+
+---
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+<br>
+
+### 🌟 **"First, solve the problem. Then, write the code."** – John Johnson
+
+<br>
+
+<sub>⚡ From mountains to code | 💻 Building the future one commit at a time | 🚀 Never stop learning</sub>
+
+<br><br>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27,30&height=120&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%91%8B&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+
 </div>

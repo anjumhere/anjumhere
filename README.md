@@ -5,7 +5,7 @@
 
 <!-- MATRIX STYLE TYPING WITH MULTIPLE LINES -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=200&lines=.%3E+Initializing+Developer+Profile...;.%3E+Loading+Skills%3A+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;.%3E+Status%3A+CODING+MODE+ACTIVATED;.%3E+Mission%3A+Building+the+Future+of+Web;.%3E+Current+Obsession%3A+React+%26+TypeScript;.%3E+Coffee+Level%3A+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5F%5F+80%25" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=200&lines=.%3E+Initializing+Developer+Profile...;.%3E+Loading+Skills%3A+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;.%3E+Status%3A+CODING+MODE+ACTIVATED;.%3E+Mission%3A+Building+the+Future+of+Web;.%3E+Current+Obsession%3A+React+%26+React+Router;.%3E+Coffee+Level%3A+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5F%5F+80%25" alt="Typing SVG" />
 </a>
 
 <br>
@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/-Frontend%20Developer-FF6B6B?style=for-the-badge&logo=code&logoColor=white&labelColor=1a1a2e" />
   <img src="https://custom-icon-badges.demolab.com/badge/-JavaScript%20Ninja-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e" />
-  <img src="https://custom-icon-badges.demolab.com/badge/-React%20Explorer-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-React%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e" />
   <img src="https://custom-icon-badges.demolab.com/badge/-Mountain%20Lover-10B981?style=for-the-badge&logo=mountain&logoColor=white&labelColor=1a1a2e" />
   <img src="https://custom-icon-badges.demolab.com/badge/-Open%20Source-purple?style=for-the-badge&logo=heart&logoColor=white&labelColor=1a1a2e" />
 </p>
@@ -42,14 +42,14 @@
 #!/bin/bash
 
 # ============================================
-# DEVELOPER PROFILE v2.0
+# DEVELOPER PROFILE v3.0
 # ============================================
 
 export NAME="Adnan Anjum"
 export ROLE="Frontend Developer & UI Architect"
 export LOCATION="Islamabad, Pakistan 🇵🇰"
 export PASSION="Mountain Lover ⛰️ | Code Enthusiast 💻"
-export STATUS="🔥 On Fire - Learning & Building"
+export STATUS="🔥 On Fire - Learning & Building Daily"
 
 # ============================================
 # SKILL MATRIX [CURRENT LEVEL]
@@ -58,10 +58,12 @@ export STATUS="🔥 On Fire - Learning & Building"
 declare -A SKILLS=(
     ["HTML5"]="████████████░ 95%  [EXPERT]"
     ["CSS3"]="███████████░░ 90%  [EXPERT]"
-    ["JavaScript"]="████████░░░░░ 70%  [ADVANCING]"
-    ["React.js"]="█████░░░░░░░░ 40%  [LEARNING]"
+    ["JavaScript"]="████████░░░░░ 75%  [ADVANCING]"
+    ["React.js"]="███████░░░░░░ 65%  [PROFICIENT]"
+    ["React Router"]="██████░░░░░░░ 60%  [LEARNING]"
+    ["Tailwind CSS"]="███████░░░░░░ 65%  [PROFICIENT]"
+    ["Git & GitHub"]="█████████░░░░ 80%  [PROFICIENT]"
     ["TypeScript"]="██░░░░░░░░░░░ 20%  [STARTED]"
-    ["Git"]="████████░░░░░ 75%  [PROFICIENT]"
 )
 
 # ============================================
@@ -69,7 +71,7 @@ declare -A SKILLS=(
 # ============================================
 
 MISSIONS=(
-    "🎯 Master React.js & Build Production Apps"
+    "🎯 Master React.js & React Router"
     "🚀 Create 15+ Portfolio-Worthy Projects"
     "💡 Contribute to Open Source Daily"
     "📚 Deep Dive into TypeScript & Next.js"
@@ -82,6 +84,7 @@ MISSIONS=(
 
 LANGUAGES=("HTML5" "CSS3" "JavaScript ES6+" "TypeScript")
 FRAMEWORKS=("React.js" "Tailwind CSS" "Bootstrap" "Sass")
+ROUTING=("React Router DOM")
 TOOLS=("VS Code" "Git" "GitHub" "npm" "Vite" "Figma")
 LEARNING=("Next.js" "Redux" "Node.js" "MongoDB")
 
@@ -142,10 +145,10 @@ echo "💻 Building the future, one commit at a time!"
 
 | Technology | Mastery | Combat Power |
 |:-----------|:--------|:-------------|
-| <img src="https://skillicons.dev/icons?i=js" width="30"/> **JavaScript** | ![](https://progress-bar.dev/70/?scale=100&width=180&color=f7df1e) | ⚡⚡⚡⚡🤍 |
-| <img src="https://skillicons.dev/icons?i=git" width="30"/> **Git & GitHub** | ![](https://progress-bar.dev/75/?scale=100&width=180&color=f05032) | 🔴🔴🔴🔴🤍 |
-| 🎯 **DOM Manipulation** | ![](https://progress-bar.dev/72/?scale=100&width=180&color=3b82f6) | 🔵🔵🔵🔵🤍 |
-| 🔥 **ES6+ Features** | ![](https://progress-bar.dev/68/?scale=100&width=180&color=f59e0b) | 🟡🟡🟡🟡🤍 |
+| <img src="https://skillicons.dev/icons?i=js" width="30"/> **JavaScript** | ![](https://progress-bar.dev/75/?scale=100&width=180&color=f7df1e) | ⚡⚡⚡⚡🤍 |
+| <img src="https://skillicons.dev/icons?i=git" width="30"/> **Git & GitHub** | ![](https://progress-bar.dev/80/?scale=100&width=180&color=f05032) | 🔴🔴🔴🔴🤍 |
+| 🎯 **DOM Manipulation** | ![](https://progress-bar.dev/75/?scale=100&width=180&color=3b82f6) | 🔵🔵🔵🔵🤍 |
+| 🔥 **ES6+ Features** | ![](https://progress-bar.dev/72/?scale=100&width=180&color=f59e0b) | 🟡🟡🟡🟡🤍 |
 
 </div>
 
@@ -158,8 +161,9 @@ echo "💻 Building the future, one commit at a time!"
 
 | Technology | Mastery | Combat Power |
 |:-----------|:--------|:-------------|
-| <img src="https://skillicons.dev/icons?i=react" width="30"/> **React.js** | ![](https://progress-bar.dev/40/?scale=100&width=180&color=61dafb) | 🔵🔵🤍🤍🤍 |
-| <img src="https://skillicons.dev/icons?i=tailwind" width="30"/> **Tailwind CSS** | ![](https://progress-bar.dev/35/?scale=100&width=180&color=06b6d4) | 🌊🌊🤍🤍🤍 |
+| <img src="https://skillicons.dev/icons?i=react" width="30"/> **React.js** | ![](https://progress-bar.dev/65/?scale=100&width=180&color=61dafb) | 🔵🔵🔵🤍🤍 |
+| 🧭 **React Router DOM** | ![](https://progress-bar.dev/60/?scale=100&width=180&color=ca4245) | 🔴🔴🔴🤍🤍 |
+| <img src="https://skillicons.dev/icons?i=tailwind" width="30"/> **Tailwind CSS** | ![](https://progress-bar.dev/65/?scale=100&width=180&color=06b6d4) | 🌊🌊🌊🤍🤍 |
 | <img src="https://skillicons.dev/icons?i=ts" width="30"/> **TypeScript** | ![](https://progress-bar.dev/20/?scale=100&width=180&color=3178c6) | 🔵🤍🤍🤍🤍 |
 | <img src="https://skillicons.dev/icons?i=sass" width="30"/> **Sass/SCSS** | ![](https://progress-bar.dev/25/?scale=100&width=180&color=cc6699) | 💗🤍🤍🤍🤍 |
 
@@ -265,47 +269,48 @@ Features: 100 Questions | Random Selection
 
 <div align="center">
 
-### 🎨 **PORTFOLIO WEBSITE V2.0**
+### 📋 **TASK PLANNER — REACT**
 
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-orange?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anjumhere&repo=portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=00ff41&text_color=c9d1d9&show_owner=true" />
+<img src="https://img.shields.io/badge/STATUS-LIVE%20&%20DEPLOYED-00ff00?style=for-the-badge" />
 
 <br><br>
 
-**⚡ PLANNED STACK**
+<a href="https://github.com/anjumhere/Task-Planner-React">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjumhere&repo=Task-Planner-React&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=00ff41&text_color=c9d1d9" />
+</a>
+
+<br><br>
+
+**⚡ TECH STACK**
 ```yaml
-Frontend: React.js | TypeScript | Tailwind CSS
-Features: Project Showcase | Dark Mode
-          Smooth Animations | Contact Form
-          Blog Section | Resume Download
+Frontend: React.js | Tailwind CSS | Vite
+Features: Task Management | Add/Delete Tasks
+          Mark Complete | Persistent State
+          100% Responsive | Component-Based
 ```
 
-**🎯 DEVELOPMENT ROADMAP**
-```javascript
-const roadmap = {
-  Phase1: "✅ Design & Wireframes",
-  Phase2: "⏳ React Setup & Components",
-  Phase3: "📋 Content & Animations",
-  Phase4: "📋 Testing & Optimization",
-  Phase5: "📋 Deployment & Launch"
-};
+**🎯 ACHIEVEMENTS UNLOCKED**
+```diff
++ React Hooks (useState, useEffect)
++ Component Architecture
++ Tailwind CSS Styling
++ Mobile-First Responsive Design
++ Clean React Project Structure
 ```
 
-**🚀 LAUNCH DATE**
+**🔗 LINKS**
 <br>
-<img src="https://img.shields.io/badge/EXPECTED-Q1%202026-purple?style=for-the-badge" />
+<a href="https://github.com/anjumhere/Task-Planner-React">
+  <img src="https://img.shields.io/badge/📁_SOURCE_CODE-blue?style=for-the-badge" />
+</a>
 
-<br><br>
+<br>
 
-**🎨 TECH HIGHLIGHTS**
-- Modern React Hooks & Context
-- Framer Motion Animations
-- Responsive Grid Layouts
-- TypeScript for Type Safety
-- Optimized Performance
+**📊 PROJECT STATS**
+<br>
+<img src="https://img.shields.io/github/stars/anjumhere/Task-Planner-React?style=social" />
+<img src="https://img.shields.io/github/forks/anjumhere/Task-Planner-React?style=social" />
+<img src="https://img.shields.io/github/languages/code-size/anjumhere/Task-Planner-React?style=social" />
 
 </div>
 
@@ -426,30 +431,25 @@ const roadmap = {
 ```yaml
 Technical Goals:
   ✅ HTML/CSS Mastery Achieved
-  ⏳ JavaScript Deep Dive (70% → 90%)
-  ⏳ Complete 5 React Projects
-  ⏳ Launch Personal Portfolio
-  📋 Start Daily LeetCode Practice
+  ✅ React Hooks & useState/useEffect
+  ✅ Git & GitHub Proficiency
+  ✅ API Integration (fetch & axios)
+  ✅ Task Planner React App — Live
+  ⏳ React Router DOM (In Progress)
+  ⏳ JavaScript Deep Dive (75% → 90%)
 
 Learning Focus:
-  - Advanced JavaScript Patterns
-  - React Hooks & Context API
-  - State Management Basics
+  - React Router & SPA Navigation
+  - Advanced React Patterns
   - Component Architecture
   - Performance Optimization
-
-Deliverables:
-  - Portfolio Website (Live)
-  - 3 Production React Apps
-  - 50+ GitHub Contributions
-  - Technical Blog Started
 ```
 
 ### 📅 **Q2 2026: REACT DOMINANCE**
 
 ```yaml
 Technical Goals:
-  📋 React.js Mastery (40% → 75%)
+  📋 React.js Mastery (65% → 85%)
   📋 TypeScript Integration
   📋 Learn Next.js Fundamentals
   📋 Build Full-Stack App
@@ -464,7 +464,7 @@ Learning Focus:
 
 Deliverables:
   - 5 Advanced React Projects
-  - Next.js Portfolio Upgrade
+  - Next.js Portfolio
   - Open Source Contributions
   - Tech Community Participation
 ```
@@ -527,16 +527,16 @@ Final Push:
 
 <div align="center">
 
-### 🔥 **CURRENT SPRINT** (This Week)
+### 🔥 **CURRENT FOCUS** (April 2026)
 
 <table>
 <tr>
-<td align="center">✅<br><sub>Monday</sub><br><b>React Hooks</b></td>
-<td align="center">✅<br><sub>Tuesday</sub><br><b>State Management</b></td>
-<td align="center">⏳<br><sub>Wednesday</sub><br><b>API Integration</b></td>
-<td align="center">📋<br><sub>Thursday</sub><br><b>TypeScript</b></td>
-<td align="center">📋<br><sub>Friday</sub><br><b>Project Build</b></td>
-<td align="center">📋<br><sub>Weekend</sub><br><b>Open Source</b></td>
+<td align="center">✅<br><b>React Hooks</b><br><sub>Mastered</sub></td>
+<td align="center">✅<br><b>API Calls</b><br><sub>fetch & axios</sub></td>
+<td align="center">✅<br><b>Git & GitHub</b><br><sub>Proficient</sub></td>
+<td align="center">⏳<br><b>React Router</b><br><sub>In Progress</sub></td>
+<td align="center">📋<br><b>TypeScript</b><br><sub>Up Next</sub></td>
+<td align="center">📋<br><b>Next.js</b><br><sub>Q2 2026</sub></td>
 </tr>
 </table>
 
@@ -571,6 +571,7 @@ const expertise = {
   },
   learning: {
     library: "React.js",
+    routing: "React Router DOM",
     superset: "TypeScript",
     framework: "Next.js",
     styling: "Tailwind CSS"
@@ -777,7 +778,6 @@ me = Developer()
 
 <br>
 
-<!-- SUPPORT BUTTONS -->
 ### ⭐ **SUPPORT MY JOURNEY**
 
 <a href="https://github.com/anjumhere?tab=repositories">
@@ -879,5 +879,3 @@ _One commit at a time, one project at a time, one dream at a time_
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20Visiting!%20⚡%20Let's%20Build%20Something%20Amazing!&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
-
-<!-- END OF PROFILE -->

@@ -66,7 +66,7 @@ I build real projects, write clean code, and ship to production.
 | **Backend** | Node.js, Express.js, REST API Design, JWT Authentication, Multer, Cloudinary |
 | **Database** | MongoDB, Mongoose, Aggregation Pipelines |
 | **Auth & Security** | JWT (Access + Refresh Tokens), Cookie-based sessions, bcrypt |
-| **Dev Environment** | Linux (Ubuntu), Hyprland, Neovim (LazyVim), Kitty Terminal |
+| **Dev Environment** | Linux (Ubuntu), Hyprland, Neovim (LazyVim), Tmux, Kitty Terminal |
 | **Tools** | Git, GitHub, Postman, Vercel, Vite, npm |
 
 </div>

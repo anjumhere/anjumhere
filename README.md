@@ -31,6 +31,7 @@ const anjum = {
   stack:    ["MongoDB", "Express", "React", "Node.js"],
   location: "Islamabad, Pakistan 🇵🇰",
   os:       "Ubuntu + Hyprland",
+  editor:   "Neovim (LazyVim)",
   status:   "Open to work 🟢",
   contact:  "anjumcode12@gmail.com",
 };
@@ -50,9 +51,9 @@ I build real projects, write clean code, and ship to production.
 ## 🛠️ Technical Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,linux,vscode,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,linux,vim,postman,vercel" />
 </div>
 
 <br/>
@@ -61,11 +62,12 @@ I build real projects, write clean code, and ship to production.
 
 | Layer | Technologies |
 |-------|-------------|
-| **Frontend** | React.js, Next.js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, Context API, React Router DOM |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Tailwind CSS, Context API, React Router DOM |
 | **Backend** | Node.js, Express.js, REST API Design, JWT Authentication, Multer, Cloudinary |
 | **Database** | MongoDB, Mongoose, Aggregation Pipelines |
 | **Auth & Security** | JWT (Access + Refresh Tokens), Cookie-based sessions, bcrypt |
-| **Tools** | Git, GitHub, Postman, Vercel, Vite, npm, Linux (Ubuntu) |
+| **Dev Environment** | Linux (Ubuntu), Hyprland, Neovim (LazyVim), Kitty Terminal |
+| **Tools** | Git, GitHub, Postman, Vercel, Vite, npm |
 
 </div>
 
@@ -98,9 +100,9 @@ Stack:
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Backend REST API — In Progress
+### ⚙️ [Jobsync](https://github.com/anjumhere/Jobsync-Backend) — Job Board Backend
 [![Status](https://img.shields.io/badge/Building-ff9800?style=flat-square)]()
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anjumhere)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anjumhere/Jobsync-Backend)
 
 ```yaml
 Stack:
@@ -111,47 +113,10 @@ Stack:
   - Cookie-based sessions
 ```
 
-- Access + refresh token auth flow with secure cookie handling
-- File upload pipeline: Multer → Cloudinary cloud storage
-- MongoDB aggregation pipelines for complex queries
-- MVC architecture with centralized error handling
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [Interactive Quiz App](https://anjumhere.github.io/interactive-quiz/)
-[![Live](https://img.shields.io/badge/LIVE-00c853?style=flat-square)](https://anjumhere.github.io/interactive-quiz/)
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anjumhere/interactive-quiz)
-
-```yaml
-Stack:
-  - Vanilla JavaScript ES6+
-  - HTML5 + CSS3
-  - Zero frameworks
-```
-
-- Fisher-Yates shuffle for randomized question selection
-- Pure DOM manipulation — no libraries, no frameworks
-- Mobile-first responsive design
-
-</td>
-<td width="50%" valign="top">
-
-### 📋 [Task Planner](https://github.com/anjumhere/Task-Planner-React) — React
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/anjumhere/Task-Planner-React)
-
-```yaml
-Stack:
-  - React.js + Tailwind CSS
-  - useState / useEffect
-  - Vite
-```
-
-- Component-based architecture with persistent state
-- Clean task management with add, delete, complete
-- Fully responsive UI
+- Hybrid LinkedIn-style architecture — any user can create a company and post jobs
+- Access + refresh token auth flow with secure httpOnly cookie handling
+- File upload pipeline: Multer → Cloudinary (avatar, resume, logo)
+- Ownership-based permissions, pagination, and regex search across all list routes
 
 </td>
 </tr>

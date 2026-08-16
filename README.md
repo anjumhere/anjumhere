@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Adnan%20Anjum&fontSize=75&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Islamabad%2C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Adnan%20Anjum&fontSize=75&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20C%2B%2B%20%26%20DSA%20%7C%20Islamabad%2C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=58&descSize=16"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+Stack;React+%E2%86%92+Node.js+%E2%86%92+MongoDB+%E2%86%92+Deployed;Clean+code.+Real+projects.+Shipping+daily." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+Stack;React+%E2%86%92+Node.js+%E2%86%92+MongoDB+%E2%86%92+Deployed;Now+going+deeper%3A+C%2B%2B+%2B+DSA+%2B+Linux;Clean+code.+Real+projects.+Shipping+daily." />
 </a>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/anjumcode12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjumcode12@gmail.com)
+[![Email](https://img.shields.io/badge/anjumhere.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjumhere.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-anjum-196a373a1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjumhere)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00c853?style=for-the-badge&logoColor=white)
@@ -26,23 +26,29 @@
 
 ```js
 const anjum = {
-  name:     "Adnan Anjum",
-  role:     "Full Stack Developer",
-  stack:    ["MongoDB", "Express", "React", "Node.js"],
-  location: "Islamabad, Pakistan 🇵🇰",
-  os:       "Ubuntu + Hyprland",
-  editor:   "Neovim (LazyVim)",
-  status:   "Open to work 🟢",
-  contact:  "anjumcode12@gmail.com",
+  name:      "Adnan Anjum",
+  role:      "Full Stack Developer",
+  webStack:  ["MongoDB", "Express", "React", "Node.js"],
+  nowLearning: ["C++", "DSA", "Linux Internals"],
+  location:  "Islamabad, Pakistan 🇵🇰",
+  os:        "Ubuntu + Hyprland",
+  editor:    "Neovim (LazyVim) — fully custom Lua config",
+  goal:      "Low-level systems + competitive programming",
+  status:    "Open to work 🟢",
+  contact:   "anjumhere.dev@gmail.com",
 };
 ```
 
 Self-taught Full Stack Developer with hands-on experience building
-and deploying MERN stack applications. I work across the entire
-stack — React frontends, Express REST APIs, MongoDB databases,
-and JWT authentication systems.
+and deploying MERN stack applications — React frontends, Express
+REST APIs, MongoDB databases, and JWT authentication systems.
 
-I build real projects, write clean code, and ship to production.
+Currently going deeper under the hood: working through **C++ and
+Data Structures & Algorithms** to build real problem-solving
+fundamentals, with an eye toward low-level systems programming.
+Day-to-day dev happens entirely in a hand-tuned **Neovim (LazyVim)**
+setup on **Hyprland**, because if you're going to stare at a
+terminal for 8 hours a day, it should at least look good doing it.
 
 <br clear="right"/>
 
@@ -53,7 +59,7 @@ I build real projects, write clean code, and ship to production.
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,linux,vim,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cpp,git,linux,vim,postman" />
 </div>
 
 <br/>
@@ -66,10 +72,33 @@ I build real projects, write clean code, and ship to production.
 | **Backend** | Node.js, Express.js, REST API Design, JWT Authentication, Multer, Cloudinary |
 | **Database** | MongoDB, Mongoose, Aggregation Pipelines |
 | **Auth & Security** | JWT (Access + Refresh Tokens), Cookie-based sessions, bcrypt |
-| **Dev Environment** | Linux (Ubuntu), Hyprland, Neovim (LazyVim), Tmux, Kitty Terminal |
+| **Systems / DSA** | C++ (STL, OOP, smart pointers), Data Structures & Algorithms, `g++`/`gdb`/`clangd` toolchain |
+| **Dev Environment** | Linux (Ubuntu + Hyprland), Neovim (LazyVim, custom Lua), Tmux, Kitty Terminal |
 | **Tools** | Git, GitHub, Postman, Vercel, Vite, npm |
 
 </div>
+
+---
+
+## 🧠 Currently Diving Into
+
+```yaml
+C++ & DSA:
+  - Working through C++ fundamentals → OOP → STL → smart pointers
+  - Solving problems from Apna College's DSA playlist
+  - Building toward competitive programming proficiency
+  - Public practice repo: arrays, recursion, OOP, pointer arithmetic, and more
+
+Linux:
+  - Moving past "copy-paste the command" — learning what's actually happening
+  - Filesystem hierarchy, config internals, how the OS works underneath
+  - Daily driver: Ubuntu + Hyprland, tiled and scripted by hand
+
+Up Next:
+  - A Linux system tool (packaged as a .deb) — disk health checks via smartctl,
+    large-file finder, duplicate detector — built with std::filesystem, STL,
+    and CMake/CPack
+```
 
 ---
 
@@ -165,7 +194,7 @@ Stack:
 <div align="center">
 
 *Available for full-time roles and freelance projects.*
-*[anjumcode12@gmail.com](mailto:anjumcode12@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adnan-anjum-196a373a1/)*
+*[anjumhere.dev@gmail.com](mailto:anjumhere.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/adnan-anjum-196a373a1/)*
 
 <br/>
 

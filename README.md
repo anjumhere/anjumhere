@@ -6,7 +6,7 @@
 
 # Adnan Anjum
 
-**Full Stack Engineer (MERN) — building toward Systems & Low-Level Engineering**
+**Software Engineer — Full Stack (MERN) & C++ Developer**
 
 Islamabad, Pakistan 🇵🇰
 
@@ -23,21 +23,11 @@ Islamabad, Pakistan 🇵🇰
 
 ## About
 
-I design and ship production MERN applications end to end — React
-frontends, Express APIs, MongoDB data layers, and JWT-based auth
-systems — with a focus on clean architecture over tutorial-grade
-code. Everything I build gets deployed, not just committed.
+I design and ship production applications end to end. On the web, I build robust MERN architectures—React frontends, Express APIs, MongoDB data layers, and JWT-based auth systems—prioritizing clean design over tutorial-grade code. Everything I build gets deployed.
 
-I'm currently extending that foundation downward: working through
-**C++ and Data Structures & Algorithms** to build real engineering
-judgment — not just syntax — with the goal of eventually working
-on low-level and systems software. In parallel, I'm learning Linux
-past the surface level: filesystem internals, process management,
-and how the tools I use every day actually work underneath.
+Beyond the web, I am a C++ developer with a strong foundation in Data Structures and Algorithms. I build low-level systems and CLI tools, focusing on memory management, object-oriented design, and the STL. I thrive in environments that require understanding software all the way down to the metal, bridging the gap between high-level web APIs and system-level execution.
 
-My entire workflow — editor, terminal, window manager — is a
-hand-built Neovim (LazyVim) + Hyprland setup that I maintain and
-extend myself, not a default install.
+My daily driver is a fully custom Arch Linux environment powered by Hyprland and Tmux. I write code exclusively in Neovim (LazyVim with custom Lua configurations), maintaining an incredibly fast, keyboard-centric workflow that I maintain and extend myself.
 
 <br/>
 
@@ -65,7 +55,7 @@ extend myself, not a default install.
 <tr>
 <td valign="top"><b>Environment</b></td>
 <td valign="top">
-<img src="https://skillicons.dev/icons?i=linux,vim,git,postman" />
+<img src="https://skillicons.dev/icons?i=arch,linux,vim,git,postman" />
 </td>
 </tr>
 </table>
@@ -80,8 +70,8 @@ extend myself, not a default install.
 | Backend | Node.js, Express.js, REST API design, JWT (access + refresh), Multer, Cloudinary |
 | Database | MongoDB, Mongoose, aggregation pipelines |
 | Auth & Security | JWT, httpOnly cookie sessions, bcrypt |
-| Systems / DSA | C++ (OOP, STL, smart pointers), data structures & algorithms, `g++` / `gdb` / `clangd` |
-| Environment | Ubuntu + Hyprland, Neovim (LazyVim, custom Lua config), Tmux, Kitty |
+| Systems & DSA | C++ (OOP, STL, smart pointers), Data Structures & Algorithms, `g++` / `CMake` |
+| Environment | Arch Linux + Hyprland, Tmux, Neovim (LazyVim, custom Lua config), Zsh / Kitty |
 | Tools | Git, GitHub, Postman, Vercel, Vite, npm |
 
 </details>
@@ -127,11 +117,10 @@ extend myself, not a default install.
 
 ## Currently
 
-- [x] MERN stack — building and shipping production apps
-- [x] C++ fundamentals — OOP, STL, smart pointers
-- [ ] Data Structures & Algorithms — Apna College problem set, in progress
-- [ ] Linux internals — filesystem, processes, config systems, beyond copy-paste
-- [ ] Next build: a packaged Linux CLI tool (`.deb`) — disk health via `smartctl`,
+- [x] Full-Stack Engineering — building and shipping production MERN apps
+- [x] C++ & DSA — writing efficient, memory-safe algorithms and system applications
+- [ ] Linux Internals — exploring OS architecture, process management, and advanced shell scripting on Arch
+- [ ] Next build: a packaged Linux CLI tool (`.deb` / AUR package) — disk health via `smartctl`,
       large-file and duplicate detection, built with `std::filesystem` + CMake/CPack
 
 <br/>

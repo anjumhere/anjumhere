@@ -6,7 +6,7 @@
 
 # Adnan Anjum
 
-**Software Engineer — Full Stack (MERN) & C++ Developer**
+**Software Engineer**
 
 Islamabad, Pakistan 🇵🇰
 
@@ -23,11 +23,11 @@ Islamabad, Pakistan 🇵🇰
 
 ## About
 
-I design and ship production applications end to end. On the web, I build robust MERN architectures—React frontends, Express APIs, MongoDB data layers, and JWT-based auth systems—prioritizing clean design over tutorial-grade code. Everything I build gets deployed.
+I am a Software Engineer specializing in full-stack web architecture and system-level programming. On the web, I architect scalable APIs, secure authentication flows, and responsive frontends using the MERN stack and Next.js. 
 
-Beyond the web, I am a C++ developer with a strong foundation in Data Structures and Algorithms. I build low-level systems and CLI tools, focusing on memory management, object-oriented design, and the STL. I thrive in environments that require understanding software all the way down to the metal, bridging the gap between high-level web APIs and system-level execution.
+Parallel to web development, I write performance-critical C++ and design low-level applications, grounded in a strong foundation of Data Structures and Algorithms. I thrive in environments that require understanding software from the database layer all the way down to memory management and system execution.
 
-My daily driver is a fully custom Arch Linux environment powered by Hyprland and Tmux. I write code exclusively in Neovim (LazyVim with custom Lua configurations), maintaining an incredibly fast, keyboard-centric workflow that I maintain and extend myself.
+My daily driver is a fully custom Arch Linux environment powered by Hyprland. I write code exclusively in Neovim, maintaining a heavily optimized, keyboard-driven workflow orchestrated through Tmux.
 
 <br/>
 
@@ -64,15 +64,15 @@ My daily driver is a fully custom Arch Linux environment powered by Hyprland and
 <summary><b>Full breakdown</b></summary>
 <br/>
 
-| Layer | Details |
+| Layer | Technologies |
 |---|---|
-| Frontend | React.js, Next.js, Tailwind CSS, Context API, React Router |
-| Backend | Node.js, Express.js, REST API design, JWT (access + refresh), Multer, Cloudinary |
-| Database | MongoDB, Mongoose, aggregation pipelines |
-| Auth & Security | JWT, httpOnly cookie sessions, bcrypt |
-| Systems & DSA | C++ (OOP, STL, smart pointers), Data Structures & Algorithms, `g++` / `CMake` |
-| Environment | Arch Linux + Hyprland, Tmux, Neovim (LazyVim, custom Lua config), Zsh / Kitty |
-| Tools | Git, GitHub, Postman, Vercel, Vite, npm |
+| **Frontend** | React.js, Next.js, Tailwind CSS, Context API, React Router |
+| **Backend** | Node.js, Express.js, REST API design, JWT (access + refresh), Multer, Cloudinary |
+| **Database** | MongoDB, Mongoose, aggregation pipelines |
+| **Security** | JWT, httpOnly cookie sessions, bcrypt |
+| **Systems & DSA** | C++ (OOP, STL, smart pointers), Data Structures & Algorithms, `g++`, CMake |
+| **Environment** | Arch Linux, Hyprland, Tmux, Neovim (LazyVim, custom Lua config), Zsh, Kitty |
+| **Tools** | Git, GitHub, Postman, Vercel, Vite, npm |
 
 </details>
 
@@ -102,12 +102,12 @@ My daily driver is a fully custom Arch Linux environment powered by Hyprland and
 <br/>
 <sub>Node.js · Express · MongoDB · JWT</sub>
 
-- Hybrid architecture — any user can register a company and post jobs
+- Hybrid architecture supporting multi-tenant company registration
 - Access + refresh token flow with secure httpOnly cookies
-- Upload pipeline: Multer → Cloudinary for avatars, resumes, logos
-- Ownership-based permissions, pagination, regex search on all list routes
+- Media upload pipeline: Multer → Cloudinary
+- Ownership-based permissions, pagination, and regex-based search
 
-[`Source`](https://github.com/anjumhere/Jobsync-Backend) · `in progress`
+[`Source`](https://github.com/anjumhere/Jobsync-Backend) · `Active Development`
 
 </td>
 </tr>
@@ -115,13 +115,12 @@ My daily driver is a fully custom Arch Linux environment powered by Hyprland and
 
 <br/>
 
-## Currently
+## Active Development
 
-- [x] Full-Stack Engineering — building and shipping production MERN apps
-- [x] C++ & DSA — writing efficient, memory-safe algorithms and system applications
-- [ ] Linux Internals — exploring OS architecture, process management, and advanced shell scripting on Arch
-- [ ] Next build: a packaged Linux CLI tool (`.deb` / AUR package) — disk health via `smartctl`,
-      large-file and duplicate detection, built with `std::filesystem` + CMake/CPack
+- **Full-Stack Engineering:** Architecting and shipping production-ready MERN applications.
+- **C++ & Algorithms:** Writing memory-safe algorithms and implementing core data structures.
+- **System Utilities:** Building a packaged Linux CLI tool (`.deb` / AUR) for disk health monitoring and file detection using `std::filesystem`.
+- **Linux Internals:** Deepening expertise in OS architecture, process management, and shell scripting.
 
 <br/>
 

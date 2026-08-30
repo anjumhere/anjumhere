@@ -1,21 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=4"/>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header"/>
 
 # Adnan Anjum
 
-**Software Engineer**
+**Software Engineer — Full-Stack Web & Systems Programming**
 
 Islamabad, Pakistan 🇵🇰
 
 <br/>
 
-[![Email](https://img.shields.io/badge/-anjumhere.dev%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:anjumhere.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/adnan-anjum-196a373a1/)
-[![GitHub](https://img.shields.io/badge/-anjumhere-0d1117?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/anjumhere)
-[![Status](https://img.shields.io/badge/-Open%20to%20Work-0d1117?style=flat-square&logoColor=00c853&color=0d1117&labelColor=0d1117)](mailto:anjumhere.dev@gmail.com)
+[![Email](https://img.shields.io/badge/anjumhere.dev%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:anjumhere.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/adnan-anjum-196a373a1/)
+[![GitHub](https://img.shields.io/badge/anjumhere-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/anjumhere)
 
 </div>
 
@@ -23,11 +20,11 @@ Islamabad, Pakistan 🇵🇰
 
 ## About
 
-I am a Software Engineer specializing in full-stack web architecture and system-level programming. On the web, I architect scalable APIs, secure authentication flows, and responsive frontends using the MERN stack and Next.js. 
+I build full-stack web applications on the MERN stack and Next.js, and I write C++ for problems that need to run close to the metal. Two different disciplines, one habit in common — I want to understand a system from the request hitting an API down to how memory is laid out underneath it.
 
-Parallel to web development, I write performance-critical C++ and design low-level applications, grounded in a strong foundation of Data Structures and Algorithms. I thrive in environments that require understanding software from the database layer all the way down to memory management and system execution.
+On the web side, that means designing auth flows that don't leak, API layers that hold up under real testing (not just happy-path clicks), and frontends that don't feel like an afterthought. On the systems side, it means going through Data Structures & Algorithms properly rather than skipping to frameworks, and using C++ to build tools I'd actually use — not just exercises.
 
-My daily driver is a fully custom Arch Linux environment powered by Hyprland. I write code exclusively in Neovim, maintaining a heavily optimized, keyboard-driven workflow orchestrated through Tmux.
+My daily environment is Omarchy (Arch Linux, Hyprland) on a Dell Latitude E6420. Everything runs through Neovim (LazyVim, custom Lua config), Kitty, and Tmux — a keyboard-driven setup I maintain and tune myself, including a custom LSP hover panel I wrote in Lua.
 
 <br/>
 
@@ -35,9 +32,9 @@ My daily driver is a fully custom Arch Linux environment powered by Hyprland. I 
 
 <table width="100%">
 <tr>
-<td valign="top" width="22%"><b>Frontend</b></td>
+<td valign="top" width="20%"><b>Frontend</b></td>
 <td valign="top">
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </td>
 </tr>
 <tr>
@@ -47,7 +44,7 @@ My daily driver is a fully custom Arch Linux environment powered by Hyprland. I 
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Systems & DSA</b></td>
+<td valign="top"><b>Systems &amp; DSA</b></td>
 <td valign="top">
 <img src="https://skillicons.dev/icons?i=cpp,c" />
 </td>
@@ -55,7 +52,7 @@ My daily driver is a fully custom Arch Linux environment powered by Hyprland. I 
 <tr>
 <td valign="top"><b>Environment</b></td>
 <td valign="top">
-<img src="https://skillicons.dev/icons?i=arch,linux,vim,git,postman" />
+<img src="https://skillicons.dev/icons?i=archlinux,linux,neovim,tmux,git,postman" />
 </td>
 </tr>
 </table>
@@ -66,12 +63,12 @@ My daily driver is a fully custom Arch Linux environment powered by Hyprland. I 
 
 | Layer | Technologies |
 |---|---|
-| **Frontend** | React.js, Next.js, Tailwind CSS, Context API, React Router |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, TanStack Query, Zustand, React Hook Form + Zod, Context API |
 | **Backend** | Node.js, Express.js, REST API design, JWT (access + refresh), Multer, Cloudinary |
 | **Database** | MongoDB, Mongoose, aggregation pipelines |
-| **Security** | JWT, httpOnly cookie sessions, bcrypt |
-| **Systems & DSA** | C++ (OOP, STL, smart pointers), Data Structures & Algorithms, `g++`, CMake |
-| **Environment** | Arch Linux, Hyprland, Tmux, Neovim (LazyVim, custom Lua config), Zsh, Kitty |
+| **Security** | JWT, httpOnly cookie sessions, bcrypt, ownership-based authorization |
+| **Systems &amp; DSA** | C++ (OOP, STL, smart pointers, templates), Data Structures & Algorithms, `g++`, `clangd`, CMake |
+| **Environment** | Omarchy (Arch + Hyprland), Neovim (LazyVim), Tmux, Kitty, Zsh |
 | **Tools** | Git, GitHub, Postman, Vercel, Vite, npm |
 
 </details>
@@ -88,9 +85,9 @@ My daily driver is a fully custom Arch Linux environment powered by Hyprland. I 
 <br/>
 <sub>React · Tailwind · Clerk · EmailJS</sub>
 
-- Full-app global state via Context API
-- Secure session handling with Clerk auth
-- Transactional order emails via EmailJS
+- Global state managed via Context API across the full app
+- Auth and session handling through Clerk
+- Transactional order confirmation emails via EmailJS
 - Fully responsive, deployed on Vercel
 
 [`Live`](https://cartzy.vercel.app) · [`Source`](https://github.com/anjumhere/cartzy)
@@ -98,14 +95,14 @@ My daily driver is a fully custom Arch Linux environment powered by Hyprland. I 
 </td>
 <td width="50%" valign="top">
 
-**[Jobsync](https://github.com/anjumhere/Jobsync-Backend)** — Job Board Backend
+**[Jobsync](https://github.com/anjumhere/Jobsync-Backend)** — Job Board Platform
 <br/>
-<sub>Node.js · Express · MongoDB · JWT</sub>
+<sub>Node.js · Express · MongoDB · Vite · React · TypeScript</sub>
 
-- Hybrid architecture supporting multi-tenant company registration
-- Access + refresh token flow with secure httpOnly cookies
-- Media upload pipeline: Multer → Cloudinary
-- Ownership-based permissions, pagination, and regex-based search
+- Backend deployed: multi-tenant company registration, dual-token JWT auth, Cloudinary media pipeline
+- Full CRUD across four models with ownership-based permissions, pagination, and regex search
+- Controllers hardened through extensive Postman testing (caught missing awaits, weak validation, rollback ordering bugs)
+- Frontend in progress: TanStack Query, Zustand, Zod-validated forms, feature-based structure mirroring the backend
 
 [`Source`](https://github.com/anjumhere/Jobsync-Backend) · `Active Development`
 
@@ -115,12 +112,12 @@ My daily driver is a fully custom Arch Linux environment powered by Hyprland. I 
 
 <br/>
 
-## Active Development
+## Currently
 
-- **Full-Stack Engineering:** Architecting and shipping production-ready MERN applications.
-- **C++ & Algorithms:** Writing memory-safe algorithms and implementing core data structures.
-- **System Utilities:** Building a packaged Linux CLI tool (`.deb` / AUR) for disk health monitoring and file detection using `std::filesystem`.
-- **Linux Internals:** Deepening expertise in OS architecture, process management, and shell scripting.
+- **Full-stack engineering** — architecting and shipping MERN/Next.js applications end to end
+- **C++ & DSA** — working through data structures and algorithms properly, then applying it in a Library Manager project (OOP, inheritance, templates, STL, file persistence)
+- **System utilities** — building a packaged Linux CLI tool (`.deb`) for disk health monitoring and duplicate file detection using `std::filesystem`
+- **Linux internals** — going deeper on OS architecture, process management, and shell scripting
 
 <br/>
 
@@ -150,6 +147,6 @@ My daily driver is a fully custom Arch Linux environment powered by Hyprland. I 
 
 <sub>Open to full-time roles and freelance work — <a href="mailto:anjumhere.dev@gmail.com">anjumhere.dev@gmail.com</a></sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer"/>
 
 </div>
